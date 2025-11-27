@@ -5,11 +5,11 @@ class App(TethysAppBase):
     """
     Tethys app class for tutorial.
     """
-    name = 'tutorial'
-    description = 'it's a tutorial for tethys so I can apply to aquaveo'
+    name = ''
+    description = ''
     package = 'map_layout_tutorial'  # WARNING: Do not change this value
     index = 'home'
-    icon = f'{package}/images/icon.gif'
+    icon = f'{package}/images/surfsUpDude.png'
     root_url = 'map-layout-tutorial'
     color = '#ff00ff'
     tags = ''
