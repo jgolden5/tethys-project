@@ -1,0 +1,69 @@
+Aquaveo: Strategy: Get the MINIMAL product working first, THEN improve it from there with any extra wiggle room of time I have after that
+current "time" (where time is defined as hour:minutes since starting, and 10:00 is the target completion time for ALL work on this project): 2:16 [11:40]
+0 - plan my strategy {target latest completion time = 8:00}
+  0.1 do initial planning {1:00} ✅
+  0.2 update planning as time goes on {8:00}
+1 - read https://docs.tethysplatform.org/en/latest/tutorials/map_layout.html (note that this section is JUST reading, and I will go through the exercises in 3.0) {3:00}
+  1.1 new tethys pap project {2:00} ✅
+  1.2 configure map layout {2:10} ✅
+  1.3 data prep {2:20}
+  1.4 add spatial data to map layout {2:40}
+  1.5 configure map layout data plotting {2:55}
+  1.6 additional exercises {3:00}
+2 - read https://docs.tethysplatform.org {3:20}
+  2.1 read the actual docs {3:10}
+  <<Stopping point @work>>
+  2.2 look at the example app using tethys quickstart in the documentation {3:20}
+3 - build a simple application that includes a map and a plot. Use data of your choice that is interesting to you (use points 1 & 2) [note that this follows along exactly with what I read in the reading in 1.0-2.0
+  3.1 new tethys app project
+    3.1.1 generate scaffold (I believe project layout should look something like this if I understand right = https://docs.google.com/presentation/d/1eob8SqDDedqloMQ0nHKIKeLH90BKaW8fcmlab48IH0I/edit?slide=id.g244a9379b63_0_17#slide=id.g244a9379b63_0_17)
+    3.1.2 add app dependencies to install.yml
+    3.1.3 development installation
+    3.1.4 customize app icon and theme color
+    3.1.5 view your new app
+    3.1.6 solution (understand this!)
+  3.2 configure map layout
+    3.2.0 (optional - if I feel at this point that it would be better) start from previous solution
+    3.2.1 swap default home controller with map layout (and make sure I can understand what this means)
+    3.2.2 solution (understand this!)
+  3.3 data prep (long part)
+    3.3.0 (optional - if I feel at this point that it would be better)
+    3.3.1 download the sample nextGen data
+    3.3.2 explore the data (long step)
+    3.3.3 reproject the spatial data (longer step)
+    3.3.4 solution
+  3.4 add spatial data to map layout
+    3.4.0 (optional - if I feel at this point that it would be better)
+    3.4.1 override compose_layers function of MapLayout (exceedingly long step)
+    3.4.2 adjust the map's default zoom and extent
+    3.4.3 adjust the layer styles
+    3.4.4 solution
+  3.5 configure map layout data plotting
+    3.5.0 (optional - if I feel at this point that it would be better)
+    3.5.1 configure NextGen data plotting (basically the whole thing is this one step
+    3.5.2 solution
+  3.6 additional exercises (maybe only do this step if I have at least 3 hours of time remaining, else proceed past this)
+    3.6.0 (optional - if I feel at this point that it would be better)
+    3.6.1 add the flowpath data
+  3.7 (optional, and only if I have 3 more hours of free time at this point) extra stuff to add icing on my cake
+    3.7.1 look into GeoServer (probably out of scope, so probably don't, but I can look into it anyway if I have extra time)
+    3.7.2 look into the 'using docker' section IF I have time AFTER completing the minimum project requirements. The ability to integrate docker into the project will be icing on the cake for my technical interview
+      3.7.2.1 read up on tethys docker command, and play with them a bit {later}
+  3.8 refer to app scaffolding structure and see if my app looks anything like it = https://docs.google.com/presentation/d/1eob8SqDDedqloMQ0nHKIKeLH90BKaW8fcmlab48IH0I/edit?slide=id.g244a9379b63_0_17#slide=id.g244a9379b63_0_17
+  3.9 look into 'showcase app' again (after having learned a little bit how the basic app development works), and also compare this with my app, and see if I can improve my app in at least 3 ways based on what's in the showcase app = https://github.com/tethysplatform/tethysapp-gizmo_showcase/tree/main
+4 - include a README.md with clear instructions for how to use my application
+5 - post this project to GitHub and share the repo link with nswain@aquaveo.com
+  5.0 as a side note, I should be including multiple small commits in my process so they can see how I went about doing everything
+  5.1 first, post minimal working version to GitHub
+  5.2 next, work on implementing tethys docker to tethys app, referring to 2.1
+6 - it would not be bad to do a few Python codewars challenges as well to make sure I know the basics of the language, since I'm not very familiar with it (note that this step should also only be done to fill in the gaps after having completed 6.1-6.2)
+  6.1 8 kyu codewars
+  6.2 8 kyu codewars
+  6.3 7 kyu codewars
+  6.4 7 kyu codewars
+  6.5 6 kyu codewars
+Timelines...
+[PROJECT DUE DATE: 12-5-25]
+(Interview date: 12-9-25 @4:30PM)
+{decision will be made by: 12-19-25}
+<Internship will start: 1-7-26>

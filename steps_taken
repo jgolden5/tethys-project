@@ -1,0 +1,7 @@
+Purpose: create a recreateable tethys environment
+I - create and activate tethys environment
+  1 - installed miniconda with brew = 'brew install miniconda'
+  2 - created new venv = 'conda create -n tethys'
+  3 - source entire path for activate (must be overwritten?) = 'source /usr/local/Caskroom/miniconda/base/bin/activate'
+  4 - initialized conda with bash = 'conda init bash'
+  5 - activated tethys venv = 'conda activate tethys'
