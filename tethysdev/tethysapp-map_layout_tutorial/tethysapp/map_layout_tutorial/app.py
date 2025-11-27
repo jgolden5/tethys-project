@@ -11,7 +11,7 @@ class App(TethysAppBase):
     index = 'home'
     icon = f'{package}/images/surfsUpDude.png'
     root_url = 'map-layout-tutorial'
-    color = '#ff00ff'
+    color = '#001f3f'
     tags = ''
     enable_feedback = False
     feedback_emails = []
