@@ -16,3 +16,6 @@ III - Add Spatial Data to Map Layout
   3 - I'm getting a 404 error for http://localhost:8000/apps/map-layout-tutorial/, so I'm assuming the position of my workspace/map_layout_tutorial/app_workspace was wrong, and I will swap workspace and map_layout_tutorial directories just to see if that works. (Note, that was indeed the issue, AND, I'm finally seeing nexus data already!!)
   4 - replace controllers.py with more code as described in the "3. Adjust the layer styles" section
   5 - just to show that I somewhat know what's going on, I'm going to change the outer nexus colors from red to green, and the outline color for the catchments from blue to yellow.
+IV - Configure Map Layout Data Plotting
+  1 - configure NextGen data plotting by replacing controllers.py with additional code that includes new import (pandas), new constant (app_workspace), 2 new properties set to true in MapLayoutTutorialMap class (show_properties_popup, plot_slide_sheet), get_plot_for_layer_feature function 
+  2 - to dive deeper into what the code does, refer to the explanation near the end of the following link = https://docs.tethysplatform.org/en/latest/tutorials/map_layout/configure_data_plotting.html
