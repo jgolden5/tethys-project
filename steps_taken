@@ -5,3 +5,7 @@ I - create and activate tethys environment
   3 - source entire path for activate (must be overwritten?) = 'source /usr/local/Caskroom/miniconda/base/bin/activate'
   4 - initialized conda with bash = 'conda init bash'
   5 - activated tethys venv = 'conda activate tethys'
+II - Data Prep
+  1 - download sample nextGen data (note, this time I'm going to put map_layout_tutorial inside workspaces dir, app_workspace dir inside map_layout_tutorial/, and then the contents of sample_nextgen_data.zip inside app_workspace/. I also unzipped the file as follows - 'unzip sample_nextgen_data.zip -d sample_nextgen_data'. This was in order to have the directory "sample_nextgen_data" as the example states.
+  2 - explore the data (again). This time, see if I can understand the nexus file a little more, and how the data differs from the catchments.
+  3 - reproject the spatial data. (This involves the copy/pasting of reproject_environment.yml and reproject.py, the creation of another conda env based on reproject_environment.yml, actually ENTERING said reproject env, and then running reproject.py on the nexus and catchments geojson files)
