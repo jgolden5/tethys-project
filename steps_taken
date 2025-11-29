@@ -6,6 +6,13 @@ I - create and activate tethys environment
   4 - initialized conda with bash = 'conda init bash'
   5 - activated tethys venv = 'conda activate tethys'
 II - Data Prep
-  1 - download sample nextGen data (note, this time I'm going to put map_layout_tutorial inside workspaces dir, app_workspace dir inside map_layout_tutorial/, and then the contents of sample_nextgen_data.zip inside app_workspace/. I also unzipped the file as follows - 'unzip sample_nextgen_data.zip -d sample_nextgen_data'. This was in order to have the directory "sample_nextgen_data" as the example states.
+  1 - download sample nextGen data (note, this time I'm going to put map_layout_tutorial inside workspaces dir, app_workspace dir inside map_layout_tutorial/, and then the contents of sample_nextgen_data.zip inside app_workspace/. I also unzipped the file as follows - 'unzip sample_nextgen_data.zip -d sample_nextgen_data'. This was in order to have the directory "sample_nextgen_data" as the example states. {a note from Jonathan in the future--workspaces/map_layout_tutorial/app_workspace, as the tutorial states, does NOT work. What DOES work is map_layout_tutorial/workspaces/app_workspace, so swap workspaces and map_layout_tutorial directories from what the tutorial says.}
   2 - explore the data (again). This time, see if I can understand the nexus file a little more, and how the data differs from the catchments.
   3 - reproject the spatial data. (This involves the copy/pasting of reproject_environment.yml and reproject.py, the creation of another conda env based on reproject_environment.yml, actually ENTERING said reproject env, and then running reproject.py on the nexus and catchments geojson files)
+III - Add Spatial Data to Map Layout
+  1 - override compose_layers function of MapLayout in ~/tethys/tethysdev/tethysapp-map_layout_tutorial/tethysapp/workspaces/map_layout_tutorial/controllers.py
+  2 - adjust the map's default zoom and extent to automatically zoom on the relevant data
+    useful tip for understanding default_map_extent variable: In the chrome debugger console, type - "ol.proj.transformExtent(TETHYS_MAP_VIEW.getMap().getView().calculateExtent(TETHYS_MAP_VIEW.getMap().getSize()), 'EPSG:3857', 'EPSG:4326')"
+  3 - I'm getting a 404 error for http://localhost:8000/apps/map-layout-tutorial/, so I'm assuming the position of my workspace/map_layout_tutorial/app_workspace was wrong, and I will swap workspace and map_layout_tutorial directories just to see if that works. (Note, that was indeed the issue, AND, I'm finally seeing nexus data already!!)
+  4 - replace controllers.py with more code as described in the "3. Adjust the layer styles" section
+  5 - just to show that I somewhat know what's going on, I'm going to change the outer nexus colors from red to green, and the outline color for the catchments from blue to yellow.
