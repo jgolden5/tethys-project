@@ -30,4 +30,6 @@ V - (AZ branch) set up scaffolding and basic map (without data) in my own tethys
   8 - add customized navigation tab for base.html
   9 - highlight 
 VI - add data to my web app (for this, I will give the intermediate tutorial a try, as it seems to touch on data input, which is really the only problem I have left to understand, I think) = https://docs.tethysplatform.org/en/latest/tutorials/key_concepts/intermediate.html#spatial-input-with-forms
-  1 - add a form for add_data in add_data.html and controllers.py
+  1 - add a form for add_data in add_data.html and controllers.py (starting to look powerful and interesting)
+  2 - add form submission handling code to controllers.py
+  3 - check that the post form submission is working by adding a get button to fetch the data which was added
