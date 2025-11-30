@@ -22,3 +22,4 @@ IV - Configure Map Layout Data Plotting
 V - (AZ branch) find data to import and use in my own tethys app
   1 - go to ~/tethys/tethysdev, and run 'mkdir tethysapp-az_map', then 'cd tethysapp-az_map'
   2 - scaffold and install app via command line = https://docs.tethysplatform.org/en/latest/recipes/scaffold_an_app_via_command_line.html#scaffold-an-app-via-command-line
+  3 - change icon logo (cactus.jpeg) and colors (deserty - #FEDCBA)
