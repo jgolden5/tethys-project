@@ -24,4 +24,4 @@ V - (AZ branch) set up scaffolding and find data to import and use in my own tet
   2 - scaffold and install app via command line = https://docs.tethysplatform.org/en/latest/recipes/scaffold_an_app_via_command_line.html#scaffold-an-app-via-command-line
   3 - change icon logo (cactus.jpeg) and colors (deserty - #FEDCBA)
   4 - made my own basic version of the "Beginner Concepts" tutorial version of controllers.py = https://docs.tethysplatform.org/en/latest/tutorials/key_concepts/beginner.html
-  5 - 
+  5 - add a template extending base.html '~/tethys/tethysdev/tethysapp-az_map/tethysapp/az_map/templates/az_map/add_data.html' (based on the add_dam.html example), and a new controller in controllers.py
