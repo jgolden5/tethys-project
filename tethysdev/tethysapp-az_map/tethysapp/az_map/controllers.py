@@ -1,3 +1,4 @@
+from tethys_sdk.gizmos import Button
 from tethys_sdk.layouts import MapLayout
 from tethys_sdk.routing import controller
 from .app import App
@@ -16,5 +17,22 @@ def add_data(request):
     """
     Controller for the Add Data page.
     """
-    context = {}
+    add_button = Button(
+        display_text='Add',
+        name='add-button',
+        icon='plus-square',
+        style='success'
+    )
+
+    cancel_button = Button(
+        display_text='Cancel',
+        name='cancel-button',
+        href=App.reverse('home')
+    )
+
+    context = {
+        'add_button': add_button,
+        'cancel_button': cancel_button,
+    }
+
     return App.render(request, 'add_data.html', context)

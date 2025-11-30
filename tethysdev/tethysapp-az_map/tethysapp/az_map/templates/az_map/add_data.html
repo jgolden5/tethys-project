@@ -1,1 +1,11 @@
 {% extends "az_map/base.html" %}
+{% load tethys %}
+
+{% block app_content %}
+<h1>Add Data</h1>
+{% endblock %}
+
+{% block app_actions %}
+{% gizmo cancel_button %}
+{% gizmo add_button %}
+{% endblock %}
