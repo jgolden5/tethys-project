@@ -40,3 +40,14 @@
   {{ block.super }}
   <script src="{% static tethys_app|public:'js/main.js' %}" type="text/javascript"></script>
 {% endblock %}
+
+{% block header_buttons %}
+  {% url tethys_app|url:'home' as home_url %}
+  {% url tethys_app|url:'add_data' as add_data_url %}
+  <div class="header-button glyphicon-button">
+    <a href="{{ home_url }}" title="Map"><i class="bi bi-map"></i></a>
+  </div>
+  <div class="header-button glyphicon-button">
+    <a href="{{ add_data_url }}" title="Add Data"><i class="bi bi-database-fill-add"></i></a>
+  </div>
+{% endblock %}
