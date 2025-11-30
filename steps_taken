@@ -26,3 +26,4 @@ V - (AZ branch) set up scaffolding and find data to import and use in my own tet
   4 - made my own basic version of the "Beginner Concepts" tutorial version of controllers.py = https://docs.tethysplatform.org/en/latest/tutorials/key_concepts/beginner.html
   5 - add a template extending base.html '~/tethys/tethysdev/tethysapp-az_map/tethysapp/az_map/templates/az_map/add_data.html' (based on the add_dam.html example), and a new controller in controllers.py
   6 - modify add_data.html by adding Add and Cancel buttons, and add controller
+  7 - add a link to this new page in .../templates/az_map/base.html (changed original plus icon to plus database icon)
