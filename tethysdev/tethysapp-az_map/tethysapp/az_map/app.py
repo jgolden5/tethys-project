@@ -9,9 +9,9 @@ class App(TethysAppBase):
     description = 'An app containing details about water in Arizona. Demo project for Aquaveo.'
     package = 'az_map'  # WARNING: Do not change this value
     index = 'home'
-    icon = f'{package}/images/icon.gif'
+    icon = f'{package}/images/cactus.jpeg'
     root_url = 'az-map'
-    color = '#00aa00'
+    color = '#efcdab'
     tags = ''
     enable_feedback = False
     feedback_emails = []
