@@ -19,7 +19,9 @@ III - Add Spatial Data to Map Layout
 IV - Configure Map Layout Data Plotting
   1 - configure NextGen data plotting by replacing controllers.py with additional code that includes new import (pandas), new constant (app_workspace), 2 new properties set to true in MapLayoutTutorialMap class (show_properties_popup, plot_slide_sheet), get_plot_for_layer_feature function 
   2 - to dive deeper into what the code does, refer to the explanation near the end of the following link = https://docs.tethysplatform.org/en/latest/tutorials/map_layout/configure_data_plotting.html
-V - (AZ branch) find data to import and use in my own tethys app
+V - (AZ branch) set up scaffolding and find data to import and use in my own tethys app = https://docs.tethysplatform.org/en/latest/tutorials/key_concepts/new_app_project.html
   1 - go to ~/tethys/tethysdev, and run 'mkdir tethysapp-az_map', then 'cd tethysapp-az_map'
   2 - scaffold and install app via command line = https://docs.tethysplatform.org/en/latest/recipes/scaffold_an_app_via_command_line.html#scaffold-an-app-via-command-line
   3 - change icon logo (cactus.jpeg) and colors (deserty - #FEDCBA)
+  4 - made my own basic version of the "Beginner Concepts" tutorial version of controllers.py = https://docs.tethysplatform.org/en/latest/tutorials/key_concepts/beginner.html
+  5 - 
