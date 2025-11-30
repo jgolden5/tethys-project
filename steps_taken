@@ -38,4 +38,5 @@ VI - add data to my web app (for this, I will give the intermediate tutorial a t
   6 - fix the issue where date_built automatically appends today's date to it = attempt a) change initial value in controllers.py on line 111 from date_built to ''; (this worked)
   7 - render spatial data on the map - big additions to code, but only in controllers.py (beware the silly date_built bug, but also keep in mind I will change this soon)
 VII - customize my web app and make it mine (az_map) [general data hub for future reference] = https://azgeo-open-data-agic.hub.arcgis.com/
-  1 - do step II, but with the .geojson data downloaded from this link = https://azgeo-open-data-agic.hub.arcgis.com/datasets/dd15ab8c811a49e8ac1b8a7ddcb64101_0/explore
+  1 - initial data download and prep, but with the .geojson data downloaded from this link = https://azgeo-open-data-agic.hub.arcgis.com/datasets/dd15ab8c811a49e8ac1b8a7ddcb64101_0/explore
+  2 - reproject data to be accepted at geojsonlint.com = https://geojsonlint.com/
