@@ -3,6 +3,7 @@ from tethys_sdk.gizmos import Button, DatePicker, SelectInput, TextInput
 from tethys_sdk.layouts import MapLayout
 from tethys_sdk.routing import controller
 from .app import App
+from .model import add_new_data
 
 
 @controller(name="home")
@@ -13,8 +14,8 @@ class HomeMap(MapLayout):
   map_subtitle = 'Aquaveo Project'
   basemaps = ['OpenStreetMap', 'ESRI']
 
-@controller(url='data/add')
-def add_data(request):
+@controller(url='data/add', app_workspace=True)
+def add_data(request, app_workspace):
   """
   Controller for the Add Data page.
   """
@@ -57,7 +58,13 @@ def add_data(request):
       date_error = 'Date Built is required.'
 
     if not has_errors:
-      # Do stuff here
+      add_new_data(
+        db_directory=app_workspace.path,
+        name=name,
+        owner=owner,
+        river=river,
+        date_built=date_built
+      )
       return App.redirect(App.reverse('home'))
 
     messages.error(request, "Please fix errors.")
