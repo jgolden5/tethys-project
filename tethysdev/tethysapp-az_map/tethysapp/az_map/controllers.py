@@ -108,7 +108,7 @@ def add_data(request, app_workspace):
     format='MM d, yyyy',
     start_view='decade',
     today_button=True,
-    initial=date_built,
+    initial='',
     error=date_error
   )
 
