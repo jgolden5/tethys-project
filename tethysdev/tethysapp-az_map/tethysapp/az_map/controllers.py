@@ -1,5 +1,5 @@
 from django.contrib import messages
-from tethys_sdk.gizmos import Button, DataTableView, DatePicker, SelectInput, TextInput
+from tethys_sdk.gizmos import Button, DataTableView, DatePicker, MapView, MVDraw, MVView, SelectInput, TextInput
 from tethys_sdk.layouts import MapLayout
 from tethys_sdk.routing import controller
 from .app import App
@@ -23,12 +23,14 @@ def add_data(request, app_workspace):
   owner = 'Reclamation'
   river = ''
   date_built = ''
+  location = ''
 
   # Errors
   name_error = ''
   owner_error = ''
   river_error = ''
   date_error = ''
+  location_error = ''
 
   # Handle form submission
   if request.POST and 'add-button' in request.POST:
@@ -38,6 +40,7 @@ def add_data(request, app_workspace):
     owner = request.POST.get('owner', None)
     river = request.POST.get('river', None)
     date_built = request.POST.get('date-built', None)
+    location = request.POST.get('geometry', None)
 
     # Validate
     if not name:
@@ -56,9 +59,14 @@ def add_data(request, app_workspace):
       has_errors = True
       date_error = 'Date Built is required.'
 
+    if not location:
+      has_errors = True
+      location_error = 'Location is required.'
+
     if not has_errors:
       add_new_data(
         db_directory=app_workspace.path,
+        location=location,
         name=name,
         owner=owner,
         river=river,
@@ -104,6 +112,27 @@ def add_data(request, app_workspace):
     error=date_error
   )
 
+  initial_view = MVView(
+    projection='EPSG:4326',
+    center=[-98.6, 39.8],
+    zoom=3.5
+  )
+
+  drawing_options = MVDraw(
+    controls=['Modify', 'Delete', 'Move', 'Point'],
+    initial='Point',
+    output_format='GeoJSON',
+    point_color='#FF0000'
+  )
+
+  location_input = MapView(
+    height='300px',
+    width='100%',
+    basemap=['OpenStreetMap'],
+    draw=drawing_options,
+    view=initial_view
+  )
+
   add_button = Button(
     display_text='Add',
     name='add-button',
@@ -124,6 +153,8 @@ def add_data(request, app_workspace):
     'owner_input': owner_input,
     'river_input': river_input,
     'date_built_input': date_built,
+    'location_input': location_input,
+    'location_error': location_error,
     'add_button': add_button,
     'cancel_button': cancel_button,
   }
