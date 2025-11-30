@@ -19,7 +19,7 @@ III - Add Spatial Data to Map Layout
 IV - Configure Map Layout Data Plotting
   1 - configure NextGen data plotting by replacing controllers.py with additional code that includes new import (pandas), new constant (app_workspace), 2 new properties set to true in MapLayoutTutorialMap class (show_properties_popup, plot_slide_sheet), get_plot_for_layer_feature function 
   2 - to dive deeper into what the code does, refer to the explanation near the end of the following link = https://docs.tethysplatform.org/en/latest/tutorials/map_layout/configure_data_plotting.html
-V - (AZ branch) set up scaffolding and find data to import and use in my own tethys app = https://docs.tethysplatform.org/en/latest/tutorials/key_concepts/new_app_project.html
+V - (AZ branch) set up scaffolding and basic map (without data) in my own tethys app = https://docs.tethysplatform.org/en/latest/tutorials/key_concepts/new_app_project.html
   1 - go to ~/tethys/tethysdev, and run 'mkdir tethysapp-az_map', then 'cd tethysapp-az_map'
   2 - scaffold and install app via command line = https://docs.tethysplatform.org/en/latest/recipes/scaffold_an_app_via_command_line.html#scaffold-an-app-via-command-line
   3 - change icon logo (cactus.jpeg) and colors (deserty - #FEDCBA)
@@ -27,4 +27,7 @@ V - (AZ branch) set up scaffolding and find data to import and use in my own tet
   5 - add a template extending base.html '~/tethys/tethysdev/tethysapp-az_map/tethysapp/az_map/templates/az_map/add_data.html' (based on the add_dam.html example), and a new controller in controllers.py
   6 - modify add_data.html by adding Add and Cancel buttons, and add controller
   7 - add a link to this new page in .../templates/az_map/base.html (changed original plus icon to plus database icon)
-  8 - customize navigation for base.html
+  8 - add customized navigation tab for base.html
+  9 - highlight 
+VI - add data to my web app (for this, I will give the intermediate tutorial a try, as it seems to touch on data input, which is really the only problem I have left to understand, I think) = https://docs.tethysplatform.org/en/latest/tutorials/key_concepts/intermediate.html#spatial-input-with-forms
+  1 - add a form for add_data in add_data.html and controllers.py
