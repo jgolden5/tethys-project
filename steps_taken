@@ -37,5 +37,5 @@ VI - add data to my web app (for this, I will give the intermediate tutorial a t
   5 - completed "Spatial Input with Forms" step - 1) add location_input gizmo to .../templates/az_map/add_data.html; 2) add definition of location_input gizmo and validation code to the add_data controller in controllers.py; 3) modify the add_new_data method to store spatial data (in model.py); 4) navigate to workspaces/az_map/data and delete all JSON files now that the model has changed so the files will be consistent; 5) create several new entries using the updated add_data form; 6) check that these data points exist as expected, both in the tethys portal and on my local filesystem in workspaces/az_map/app_workspace/data. (make sure to replace every occurrance of 'dam' with 'data')
   6 - fix the issue where date_built automatically appends today's date to it = attempt a) change initial value in controllers.py on line 111 from date_built to ''; (this worked)
   7 - render spatial data on the map - big additions to code, but only in controllers.py (beware the silly date_built bug, but also keep in mind I will change this soon)
-VII - customize my web app and make it mine
-  8 - 
+VII - customize my web app and make it mine (az_map) [general data hub for future reference] = https://azgeo-open-data-agic.hub.arcgis.com/
+  1 - do step II, but with the .geojson data downloaded from this link = https://azgeo-open-data-agic.hub.arcgis.com/datasets/dd15ab8c811a49e8ac1b8a7ddcb64101_0/explore
