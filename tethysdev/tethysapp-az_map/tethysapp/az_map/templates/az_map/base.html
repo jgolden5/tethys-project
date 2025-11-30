@@ -15,9 +15,11 @@
 {% block app_navigation_items %}
 {% url tethys_app|url:'home' as home_url %}
 {% url tethys_app|url:'add_data' as add_data_url %}
+{% url tethys_app|url:'data' as list_data_url %}
 <li class="nav-item title">Navigation</li>
 <li class="nav-item"><a class="nav-link{% if request.path == home_url %} active{% endif %}" href="{{ home_url }}">Map</a></li>
 <li class="nav-item"><a class="nav-link{% if request.path == add_data_url %} active{% endif %}" href="{{ add_data_url }}">Add Data</a></li>
+<li class="nav-item"><a class="nav-link{% if request.path == list_data_url %} active{% endif %}" href="{{ list_data_url }}">Data</a></li>
 {% endblock %}
 
 {% block app_content %}
@@ -39,10 +41,14 @@
 {% block header_buttons %}
   {% url tethys_app|url:'home' as home_url %}
   {% url tethys_app|url:'add_data' as add_data_url %}
+  {% url tethys_app|url:'data' as list_data_url %}
   <div class="header-button glyphicon-button">
     <a href="{{ home_url }}" title="Map"><i class="bi bi-map"></i></a>
   </div>
   <div class="header-button glyphicon-button">
     <a href="{{ add_data_url }}" title="Add Data"><i class="bi bi-database-fill-add"></i></a>
+  </div>
+  <div class="header-button glyphicon-button">
+    <a href="{{ list_data_url }}" title="Data"><i class="bi bi-database-fill"></i></a>
   </div>
 {% endblock %}

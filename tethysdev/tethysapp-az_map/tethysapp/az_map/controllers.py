@@ -1,10 +1,9 @@
 from django.contrib import messages
-from tethys_sdk.gizmos import Button, DatePicker, SelectInput, TextInput
+from tethys_sdk.gizmos import Button, DataTableView, DatePicker, SelectInput, TextInput
 from tethys_sdk.layouts import MapLayout
 from tethys_sdk.routing import controller
 from .app import App
-from .model import add_new_data
-
+from .model import add_new_data, get_all_data
 
 @controller(name="home")
 class HomeMap(MapLayout):
@@ -131,3 +130,32 @@ def add_data(request, app_workspace):
 
   return App.render(request, 'add_data.html', context)
 
+@controller(name='data', url='data', app_workspace=True)
+def list_data(request, app_workspace):
+  """
+  Show all data in a table view.
+  """
+  data = get_all_data(app_workspace.path)
+  table_rows = []
+
+  for data in data:
+    table_rows.append(
+      (
+        data['name'], data['owner'],
+        data['river'], data['date_built']
+      )
+    )
+
+  data_table = DataTableView(
+    column_names=('Name', 'Owner', 'River', 'Date Built'),
+    rows=table_rows,
+    searching=False,
+    orderClasses=False,
+    lengthMenu=[ [10, 25, 50, -1], [10, 25, 50, "All"] ],
+  )
+
+  context = {
+    'data_table': data_table
+  }
+
+  return App.render(request, 'list_data.html', context)

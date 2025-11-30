@@ -33,3 +33,23 @@ def add_new_data(db_directory: Path | str, name: str, owner: str, river: str, da
     # Write json
     with file_path.open('w') as f:
         f.write(data_json)
+
+def get_all_data(db_directory: Path | str):
+    """
+    Get all persisted data.
+    """
+    # Write to file in {{db_directory}}/data/{{uuid}}.json
+    # Make data dir if it doesn't exist
+    data_dir = Path(db_directory) / 'data'
+    if not data_dir.exists():
+        os.makedirs(data_dir, exist_ok=True)
+
+    data = []
+
+    # Open each json file and convert contents to python dictionaries
+    for dam_json in data_dir.glob('*.json'):
+        with dam_json.open('r') as f:
+            dam_dict = json.loads(f.read())
+            data.append(dam_dict)
+
+    return data
