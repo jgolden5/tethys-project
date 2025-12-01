@@ -165,7 +165,7 @@ class MapLayoutTutorialMap(MapLayout):
       return f'Streamflow at Nexus "{id}"', data, layout
 
     # Catchments
-    else:
+    else if layer_name == 'catchment':
       layout = {
         'yaxis': {
           'title': 'Evapotranspiration (mm/hr)'
@@ -193,3 +193,36 @@ class MapLayoutTutorialMap(MapLayout):
       ]
 
       return f'Evapotranspiration at Catchment "{id}"', data, layout
+    
+    # Irrigation
+    else if layer_name == 'irrigation':
+      layout = {
+        'yaxis': {
+          'title': 'Streamflow (cfs)'
+        }
+      }
+
+      output_path = output_directory / f'{id}.csv'
+      if not output_path.exists():
+        print(f'WARNING: no such file {output_path}')
+        return f'No Data Found for Irrigation "{id}"', [], layout
+
+      # Parse with Pandas
+      df = pd.read_csv(output_path)
+      time_col = df.iloc[:, 1]
+      streamflow_cms_col = df.iloc[:, 2]
+      sreamflow_cfs_col = streamflow_cms_col * 35.314  # Convert to cfs
+      data = [
+        {
+          'name': 'Streamflow',
+          'mode': 'lines',
+          'x': time_col.tolist(),
+          'y': sreamflow_cfs_col.tolist(),
+          'line': {
+            'width': 2,
+            'color': 'blue'
+          }
+        },
+      ]
+
+      return f'Streamflow at Nexus "{id}"', data, layout
