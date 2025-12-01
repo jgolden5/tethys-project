@@ -47,5 +47,9 @@ VIII - add a layer called irrigation to map_layout_tutorial, and make it point t
   2 - copy nexus layer logic to irrigation layer to let the data points display in a similar fashion (hopefully)
   3 - grab a .csv for the az 1960s irrigation data, add it to .../app_workspace/outputs/, and implement it in the get_plot_for_layer_feature function (inside controllers.py)
   4 - went part-way through trying to get irrigation data working, but I plan to switch to ADOT traffic data due to mappable coordinates
-  5 - migrated data from irrigation geojson and csv to ADOT data for each
-  6 - doing a surgical git operation to remove the huge files from my history
+IX - get data from ADOT instead and make it JUST that data on my map. This will be good enough for now because a) it's got a map; b) it's got plots (and coordinates); c) it's data I'm interested in; d) this is taking longer than I thought, haha
+  1 - migrated data from irrigation geojson and csv to ADOT data for each
+  2 - doing a surgical git operation to remove the huge files from my history
+  3 - take a lookie into the logic needed to extract data points from ADOT csv & geojson files
+  4 - side quest = pull the tethys-project onto my user in digitalOcean server (using git) [success!]
+  5 - 
