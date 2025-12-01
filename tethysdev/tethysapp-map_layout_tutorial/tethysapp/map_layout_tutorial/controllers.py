@@ -40,7 +40,7 @@ class MapLayoutTutorialMap(MapLayout):
       plottable=True,
     )
 
-    # Catchments
+    # Catchments Points
     catchments_path = config_directory / 'catchments_4326.geojson'
     with open(catchments_path) as cf:
       catchments_geojson = json.loads(cf.read())
@@ -55,7 +55,7 @@ class MapLayoutTutorialMap(MapLayout):
       plottable=True,
     )
 
-    # Catchments
+    # Traffic Points
     traffic_path = config_directory / 'traffic_4326.geojson'
     with open(traffic_path) as rf:
       traffic_geojson = json.loads(rf.read())
