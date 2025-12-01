@@ -44,3 +44,4 @@ VII - get the scaffolding up for my own layout (az_irrigation -> map_layout_tuto
   4 - remove az_irrigation/az_map altogether (but save the .geojson file) and just build upon the map_layout_tutorial app (note that 'tethys manage tethys_app_uninstall az_map' was the way to officially uninstall the az_map-related code that was behind the scenes)
 VIII - add a layer called irrigation to map_layout_tutorial, and make it point to the .geojson data points
   1 - add clickable irrigation layer which can be accessed from the layers menu (currently shows nothing)
+  2 - copy nexus layer logic to irrigation layer to let the data points display in a similar fashion (hopefully)
