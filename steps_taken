@@ -51,4 +51,6 @@ IX - get data from ADOT instead and make it JUST that data on my map. This will 
   1 - migrated data from irrigation geojson and csv to ADOT data for each
   2 - doing a surgical git operation to remove the huge files from my history
   3 - side quest = pull the tethys-project onto my user in digitalOcean server (using git) [success!]
-  4 - take a lookie into the logic needed to extract data points from ADOT csv & geojson files
+  4 - renamed and reprojected traffic files
+  5 - replace every occurrance of "irrigation" in controllers.py with "traffic" (switch the data out)
+  6 - take a lookie into the logic needed to extract data points from ADOT csv & geojson files

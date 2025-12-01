@@ -56,15 +56,15 @@ class MapLayoutTutorialMap(MapLayout):
     )
 
     # Catchments
-    irrigation_path = config_directory / 'irrigation_4326.geojson'
-    with open(irrigation_path) as rf:
-      irrigation_geojson = json.loads(rf.read())
+    traffic_path = config_directory / 'traffic_4326.geojson'
+    with open(traffic_path) as rf:
+      traffic_geojson = json.loads(rf.read())
 
-    irrigation_layer = self.build_geojson_layer(
-      geojson=irrigation_geojson,
-      layer_name='irrigation',
-      layer_title='Irrigation',
-      layer_variable='irrigation',
+    traffic_layer = self.build_geojson_layer(
+      geojson=traffic_geojson,
+      layer_name='traffic',
+      layer_title='Traffic',
+      layer_variable='traffic',
       visible=True,
       selectable=True,
       plottable=True,
@@ -79,7 +79,7 @@ class MapLayoutTutorialMap(MapLayout):
         layers=[
           nexus_layer,
           catchments_layer,
-          irrigation_layer,
+          traffic_layer,
         ]
       )
     ]
@@ -165,7 +165,7 @@ class MapLayoutTutorialMap(MapLayout):
       return f'Streamflow at Nexus "{id}"', data, layout
 
     # Catchments
-    else if layer_name == 'catchment':
+    elif layer_name == 'catchment':
       layout = {
         'yaxis': {
           'title': 'Evapotranspiration (mm/hr)'
@@ -194,8 +194,8 @@ class MapLayoutTutorialMap(MapLayout):
 
       return f'Evapotranspiration at Catchment "{id}"', data, layout
     
-    # Irrigation
-    else if layer_name == 'irrigation':
+    # Traffic
+    elif layer_name == 'traffic':
       layout = {
         'yaxis': {
           'title': 'Streamflow (cfs)'
@@ -205,7 +205,7 @@ class MapLayoutTutorialMap(MapLayout):
       output_path = output_directory / f'{id}.csv'
       if not output_path.exists():
         print(f'WARNING: no such file {output_path}')
-        return f'No Data Found for Irrigation "{id}"', [], layout
+        return f'No Data Found for Traffic "{id}"', [], layout
 
       # Parse with Pandas
       df = pd.read_csv(output_path)
