@@ -46,3 +46,6 @@ VIII - add a layer called irrigation to map_layout_tutorial, and make it point t
   1 - add clickable irrigation layer which can be accessed from the layers menu (currently shows nothing)
   2 - copy nexus layer logic to irrigation layer to let the data points display in a similar fashion (hopefully)
   3 - grab a .csv for the az 1960s irrigation data, add it to .../app_workspace/outputs/, and implement it in the get_plot_for_layer_feature function (inside controllers.py)
+  4 - went part-way through trying to get irrigation data working, but I plan to switch to ADOT traffic data due to mappable coordinates
+  5 - migrated data from irrigation geojson and csv to ADOT data for each
+  6 - doing a surgical git operation to remove the huge files from my history
