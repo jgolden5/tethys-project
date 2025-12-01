@@ -1,6 +1,6 @@
 {
 "type": "FeatureCollection",
-"name": "irrigation_-2454239779662261318_4326",
+"name": "irrigation_4326",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "FID": 2, "AREA": 836042.07230500004, "PERIMETER": 4046.2686566699999, "IRRIGATION": 3, "IRRIGATI_1": 2, "SHADE": 4, "STATUS": "IRRI", "ACRE": 206.585 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -112.551207109729006, 36.9999998060851 ], [ -112.544175747902997, 36.999999108913002 ], [ -112.550733479073003, 36.986072092480903 ], [ -112.555054815131996, 36.989712262136798 ], [ -112.554251977923002, 36.995217693726602 ], [ -112.551207109729006, 36.9999998060851 ] ] ] } },
