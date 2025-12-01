@@ -50,6 +50,5 @@ VIII - add a layer called irrigation to map_layout_tutorial, and make it point t
 IX - get data from ADOT instead and make it JUST that data on my map. This will be good enough for now because a) it's got a map; b) it's got plots (and coordinates); c) it's data I'm interested in; d) this is taking longer than I thought, haha
   1 - migrated data from irrigation geojson and csv to ADOT data for each
   2 - doing a surgical git operation to remove the huge files from my history
-  3 - take a lookie into the logic needed to extract data points from ADOT csv & geojson files
-  4 - side quest = pull the tethys-project onto my user in digitalOcean server (using git) [success!]
-  5 - 
+  3 - side quest = pull the tethys-project onto my user in digitalOcean server (using git) [success!]
+  4 - take a lookie into the logic needed to extract data points from ADOT csv & geojson files
