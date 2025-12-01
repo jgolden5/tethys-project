@@ -57,6 +57,21 @@ class MapLayoutTutorialMap(MapLayout):
             plottable=True,
         )
 
+        # Catchments
+        irrigation_path = config_directory / 'irrigation_4326.geojson'
+        with open(irrigation_path) as cf:
+            irrigation_geojson = json.loads(cf.read())
+
+        irrigation_layer = self.build_geojson_layer(
+            geojson=irrigation_geojson,
+            layer_name='irrigation',
+            layer_title='Irrigation',
+            layer_variable='irrigation',
+            visible=True,
+            selectable=True,
+            plottable=True,
+        )
+
         # Create layer groups
         layer_groups = [
             self.build_layer_group(
@@ -66,6 +81,7 @@ class MapLayoutTutorialMap(MapLayout):
                 layers=[
                     nexus_layer,
                     catchments_layer,
+                    irrigation_layer,
                 ]
             )
         ]
