@@ -1,172 +1,172 @@
-﻿X,Y,ID,SourceId,Organization,RoadwayName,DirectionOfTravel,Description,Reported,LastUpdated,StartDate,PlannedEndDate,LanesAffected,LatitudeSecondary,LongitudeSecondary,EventType,EventSubType,IsFullClosure,Severity,EncodedPolyline,Restrictions,DetourPolyline,DetourInstructions,Recurrence,RecurrenceSchedules,Details,LaneCount,ObjectId
--12456432.8525474,3941747.89609966,524260,328385,ERS,E Elliot Rd,East,Roadway reduced to one lane on E Elliot Rd Eastbound from S Country Club Way  to  N Price Rd    10/6/2025 9:00 PM  to 10/10/2025 5:00 AM
--12456432.8525474,3941747.89609966,524264,328386,ERS,E Elliot Rd,East,Roadway reduced to one lane on E Elliot Rd Eastbound from S Country Club Way  to  N Price Rd    10/25/2025 5:00 AM  to 10/26/2025 7:00 PM
--12455889.7715639,3941741.04573325,524266,328389,ERS,N Price Rd,North,Exit ramp restricted on N Price Rd Northbound from 101-LOOP Northbound  to  101-LOOP Northbound    10/6/2025 9:00 PM  to 10/10/2025 5:00 AM
--12455889.7715639,3941741.04573325,524268,328390,ERS,N Price Rd,North,Exit ramp restricted on N Price Rd Northbound from 101-LOOP Northbound  to  101-LOOP Northbound    10/25/2025 5:00 AM  to 10/26/2025 7:00 PM
--12455566.2532783,3941770.66753154,524270,328391,ERS,W Elliot Rd,West,Roadway reduced to one lane on W Elliot Rd Westbound from N Coronado St  to  S River Pkwy    10/25/2025 5:00 AM  to 10/26/2025 7:00 PM
--12455566.2532783,3941770.66753154,524274,328393,ERS,W Elliot Rd,West,Roadway reduced to one lane on W Elliot Rd Westbound from N Coronado St  to  S River Pkwy    10/6/2025 9:00 PM  to 10/10/2025 5:00 AM
--12456068.8245144,3942225.42719815,524280,328395,ERS,S Price Rd,South,Exit ramp restricted on S Price Rd Southbound from 101-LOOP Southbound  to  101-LOOP Southbound    10/25/2025 5:00 AM  to 10/26/2025 7:00 PM
--12321755.2853384,3763578.41182401,524357,408698,Tucson,"ROAD WORK, OLD SONOITA HIGHWAY",,"ROAD WORK, OLD SONOITA HIGHWAY - APPROXIMATELY SIX MILES, THURSDAY, SEPTEMBER 18, THROUGH TUESDAY, NOVEMBER 4, 2025 - Flaggers and pilot car operation will be on site to direct, monitor and control traffic movements through the construction zone.  Due to the work area limitations, turn movements within the project limits may be restricted during this work.  Minor delays and lane closures may also occur.  Please approach the area with caution, obey all traffic control devices and allow for extra travel time."
--12153788.1978721,4201997.44211083,524394,326952,ERS,I-40,East,Construction work on I-40 Eastbound from Allentown Rd (MP 350)  to  Allentown Rd (MP 353)   Width Restriction: 28ft  4/21/2025 6:00 AM  to 10/31/2025 6:00 PM
--12450411.1922876,3945688.9058433,524607,AZTech.Mesa-mTrac29226,RADS,Baseline,,75 W Baseline - road construction - Eastbound Baseline two right lanes closed with speed reduced to 35 MPH when pedestrians are detoured into the roadway for Town of Gilbert 12-inch water line project WA1140 by Stacy Witbeck.,,,,,No Data,,,roadwork,road construction,0,,,"{""Width"":null,""Height"":null,""Length"":null,""Weight"":null,""Speed"":null}",,,,,,,10
--12489072.0722,3981948.8359,524666,1101424,Glendale,60TH AVE AND MICHIGAN,southbound,VARIOUS TRAFFIC CONTROL FOR FIBER
--12489342.7369,3981879.7142,524671,1101877,Glendale,GROVERS AND 63RD AVE,southbound,VARIOUS TRAFFIC CONTROL FOR FIBER
--12492844.9814,3967528.6811,524690,1102292,Glendale,75TH AVE AND MYRTLE,southbound,VARIOUS TRAFFIC CONTROL ON NEIGHBORHOOD
--12485140.9312,3972324.0187,524697,1102293,Glendale,45TH AVE AND ONYX,westbound,VARIOUS SHOULDER CLOSURES
--12556749.1590171,4202629.75329363,524732,328525,ERS,I-40,West,Shoulder closed on I-40 Westbound from Historic Route 66 (MP 127)  to  Fort Rock Rd (MP 108)    9/29/2025 6:00 AM  to 10/17/2025 5:00 PM
--12458733.8074401,3934061.27121301,524761,328533,ERS,202-LOOP Eastbound,Unknown,Exit ramp restricted on  ramp  from 202-LOOP Eastbound  to  S McClintock Dr    10/13/2025 6:00 AM  to 10/14/2025 3:00 PM
--12457877.586401,3938405.85491652,524780,AZTech.Chandler-1857310,RADS,MCCLINTOCK DR,,MCCLINTOCK DR - road construction - SLURRY
--12457898.4658983,3938411.57729909,524781,AZTech.Chandler-1857311,RADS,MCCLINTOCK DR,,MCCLINTOCK DR - road construction - SLURRY
--12483688.8238092,3956744.69834252,524784,328542,ERS,I-10,East,HOV lane closed on I-10 Eastbound from 35th Ave (MP 141)  to  35th Ave (MP 142)    10/15/2025 9:00 PM  to 10/17/2025 5:00 AM
--12483690.7068921,3956744.59876003,524785,328543,ERS,I-10,East,Shoulder closed on I-10 Eastbound from 35th Ave (MP 141)  to  35th Ave (MP 142)    10/16/2025 5:00 AM  to 10/16/2025 9:00 PM
--12436604.615816,3947709.44695333,524816,AZTech.Mesa-mTrac29227,RADS,Southern,,4833 E Southern - road construction - Restriction times: 8:45AM-1:45PM except Wednesdays 8:45AM-11:45AMEastbound or westbound Southern right lane closed for contracted enforcement camera utility work by B & F Contracting
--12483028.6244642,3984589.57945394,524841,328562,ERS,W Beardsley Rd,West,Roadway closed on W Beardsley Rd Westbound from N 35th Ave  to  N 51st Ave    10/1/2025 4:00 AM  to 10/22/2025 4:00 PM
--12455646.9179604,3979083.78201763,524938,328601,ERS,N Pima Rd,South,Parallel/frontage road restricted on N Pima Rd Southbound from E Frank Lloyd Wright Blvd  to  E Raintree Dr . 1 Left lane closed.   9/17/2025 10:00 PM  to 10/21/2025 5:00 AM
--12452647.364022,3941287.79640213,525005,AZTech.Chandler-1863070,RADS,Alley,,Alley - road construction - Alley Closure trenching
--12448661.5484245,3950548.10738599,525008,AZTech.Mesa-mTrac29245,RADS,MAIN ST,,100 E MAIN ST - road construction - Westbound Main and Northbound Sirrine restrictions for Pacific Network Solutions,,,,,No Data,,,roadwork,road construction
--12490816.0435,3979131.8205,525035,1103138,Glendale,69TH AVE AND PARADISE LN,southbound,VARIOUS PARTIAL ROAD CLOSURES
--12485085.9845,3972133.7419,525302,1103581,Glendale,45th AVE AND COCHISE DR,southbound,VARIOUS TRAFFIC CONTROL
--12492316.0845,3966726.1025,525312,1103585,Glendale,75TH AVE AND GLENDALE,eastbound,NORTH AND EAST BOUND RIGHT LANE CLOSURES
--12450783.8765259,3930174.53013676,525442,AZTech.Chandler-1859223,RADS,S Hartford St,,S Hartford St - road construction - bore / trench /pull
--12451671.1313312,3936967.21486102,525488,AZTech.Chandler-1863382,RADS,Galveston ST,,Galveston ST - road construction - Directional
--12481846.9349433,4073599.16164211,525564,328770,ERS,SR-69,North,Road maintenance operations on SR-69 Northbound from Arizona Veterans Hwy (MP 263)  to  E Prescott Dells Rd (MP 280) . 1 Right lane closed.  Width Restriction: 14ft  10/6/2025 6:00 AM  to 10/14/2025 6:00 PM  
--12426279.4558779,3932231.73399433,525619,AZTech.Mesa-mTrac29259,RADS,Ellsworth,,7302 S Ellsworth - road construction - Westbound lane shift on Germann and a northbound Shoulder closure on Ellsworth for SRP to relocate the transformer box.
--12427099.2566838,3932242.99448651,525620,AZTech.Mesa-mTrac29260,RADS,Ellsworth,,7302 S Ellsworth - road construction - Westbound lane shift on Germann and a northbound Shoulder closure on Ellsworth for SRP to relocate the transformer box.
--12374634.0472161,3819193.73868756,525705,408509,Tucson,TANGERINE ROAD I,,TANGERINE ROAD I-10 WESTBOUND OFF-RAMP IMPROVEMENTS - Please use caution in the area and be aware of traffic control devices.
--12321679.4767652,3776081.6673852,525817,409010,Tucson,USE CAUTION: FLOODING CAMINO LOMA ALTA SOUTH OF OLD SPANISH TR AT THE WASH  SOUTHBOUND,,USE CAUTION: FLOODING CAMINO LOMA ALTA SOUTH OF OLD SPANISH TR AT THE WASH  SOUTHBOUND - Camino Loma Alta south of Old Spanish Tr at the wash Southbound.  Status: Proceed with Caution due to FloodingFor more information please contact Pima County Community Relations at (520) 724-6410
--12321682.8163499,3776006.76672103,525820,409011,Tucson,USE CAUTION: FLOODING CAMINO LOMA ALTA NORTH OF PIEDEMONTE WY AT THE WASH  NORTHBOUND,,USE CAUTION: FLOODING CAMINO LOMA ALTA NORTH OF PIEDEMONTE WY AT THE WASH  NORTHBOUND - Camino Loma Alta north of Piedemonte Wy at the wash Northbound.  Status: Proceed with Caution due to FloodingFor more information please contact Pima County Community Relations at (520) 724-6410
--12331115.1394438,3756626.73474681,525847,409024,Tucson,USE CAUTION: FLOODING S HOUGHTON RD NORTH OF W CAMINO DEL TORO   NORTHBOUND,,USE CAUTION: FLOODING S HOUGHTON RD NORTH OF W CAMINO DEL TORO   NORTHBOUND - S Houghton Rd North of W Camino Del Toro  Northbound.  Status: Proceed with Caution due to FloodingFor more information please contact Pima County Community Relations at (520) 724-6410
--12331169.2407163,3756944.48769525,525851,409026,Tucson,USE CAUTION: FLOODING HOUGHTON RD SOUTH OF W FOREST FEEZOR ST   SOUTHBOUND,,USE CAUTION: FLOODING HOUGHTON RD SOUTH OF W FOREST FEEZOR ST   SOUTHBOUND - Houghton Rd south of W Forest Feezor St  Southbound.  Status: Proceed with Caution due to FloodingFor more information please contact Pima County Community Relations at (520) 724-6410
--12454014.6514853,3932925.46305845,525935,AZTech.Chandler-1863388,RADS,Dobson Rd,,Dobson Rd - road construction - Fixing the damaged cox fiber and re routing new fiber running line restricting the NB & SB Right 2 L
--12453993.2924658,3933781.92598806,525936,AZTech.Chandler-1863389,RADS,Dobson Rd,,Dobson Rd - road construction - Fixing the damaged cox fiber and re routing new fiber running line restricting the NB & SB Right 2 L
--12487543.8523,3973293.8314,526019,1104071,Glendale,55TH AVE AND GARDEN DR,southbound,VARIOUS TRAFFIC CONTROL FOR FIBER
--12447438.2187093,3932894.71663712,526061,328958,ERS,202-LOOP Westbound,Unknown,Center lane closed on  ramp  from 202-LOOP Westbound  to  S McQueen Rd . All lanes closed.   9/22/2025 12:00 AM  to 10/17/2025 11:00 PM  
--12448229.4651559,3933044.36409498,526064,328959,ERS,S McQueen Rd,South,Turning lane closed on S McQueen Rd Southbound from E Hawken Way  to  202-LOOP Westbound . 1 Left lane closed.   10/14/2025 5:00 AM  to 10/24/2025 11:00 PM  
--12448206.0278797,3932659.99999422,526065,328960,ERS,S McQueen Rd,North,Turning lane closed on S McQueen Rd Northbound from 202-LOOP Eastbound  to  202-LOOP Westbound . 1 Lane Closed.   10/14/2025 5:00 AM  to 10/24/2025 11:00 PM  
--12367218.0540589,3933925.4334918,526090,328969,ERS,SR-177,Unknown,On ramp closed on  ramp  from SR-177  to  US-60 . All lanes closed.   10/11/2025 6:30 AM  to 10/12/2025 5:00 PM  
--12330982.7080564,3893678.09363716,526098,328972,ERS,SR-177,North,Parade on SR-177 Northbound from N Thorne Ave (MP 137)  to  N Lower Rd (MP 138)    10/17/2025 3:45 PM  to 10/17/2025 4:15 PM  
--12367545.727387,3933804.01058978,526099,328973,ERS,US-60,East,Highway closed intermittently on US-60 Eastbound from SR-177 (MP 227)  to  S Magma Ave (MP 227) . All Lanes Intermittent.  Width Restriction: 14ft  10/11/2025 6:30 AM  to 10/12/2025 10:00 AM  
--12729314.8298238,4095662.5076227,526100,328975,ERS,SR-95,North,Highway closed intermittently on SR-95 Northbound from W Acoma Blvd (MP 184)  to  Palo Verde Blvd N (MP 185)   Speed Restriction: 35mph  9/22/2025 11:00 PM  to 10/10/2025 5:00 AM  
--12366861.1417932,3934190.96119933,526101,328976,ERS,US-60,West,Highway closed intermittently on US-60 Westbound from SR-177 (MP 227)  to  S Church Ave (MP 227)   Width Restriction: 12ft  10/11/2025 6:30 AM  to 10/11/2025 4:00 PM  
--12729314.8298238,4095662.5076227,526102,328977,ERS,SR-95,South,Highway closed intermittently on SR-95 Southbound from W Acoma Blvd (MP 184)  to  Palo Verde Blvd N (MP 185)   Speed Restriction: 35mph  9/22/2025 11:00 PM  to 10/10/2025 5:00 AM  
--12333298.7459259,3895703.04276754,526105,328978,ERS,SR-177,South,Parade on SR-177 Southbound  near   N Lower Rd (MP 138)    10/17/2025 3:45 PM  to 10/17/2025 4:15 PM  
--12448197.2130281,3935065.79877596,526212,AZTech.Chandler-1863699,RADS,E BUTLER DR,,E BUTLER DR - road construction - slurry sealing full width of road curb to curb
--12453990.2707773,3936970.6553465,526219,AZTech.Chandler-1863715,RADS,N Ash Dr,,N Ash Dr - road construction - Installing telecommunications for the Gigapower project.
--12454214.4507698,3927786.36355165,526277,AZTech.Chandler-1863706,RADS,Dobson,,"Dobson - road construction - MICROTRENCHING (CORING
--12453965.7536785,3926839.97284018,526278,AZTech.Chandler-1863707,RADS,Dobson Rd,,"Dobson Rd - road construction - MICROTRENCHING (CORING
--12454085.5239317,3927705.65481799,526279,AZTech.Chandler-1863708,RADS,Dobson,,"Dobson - road construction - MICROTRENCHING (CORING
--12453778.8247894,3927981.8136567,526280,AZTech.Chandler-1863709,RADS,Dobson,,"Dobson - road construction - MICROTRENCHING (CORING
--12454089.9463923,3927712.64269128,526281,AZTech.Chandler-1863710,RADS,Dobson,,"Dobson - road construction - MICROTRENCHING (CORING
--12453750.3726904,3927994.50479436,526282,AZTech.Chandler-1863711,RADS,Dobson,,"Dobson - road construction - MICROTRENCHING (CORING
--12432031.2996403,3949591.53072234,526419,AZTech.Mesa-mTrac29268,RADS,Broadway,,7602 E Broadway - road construction - Alternating lane closures for on Broadway for Northstar to install Google Fiber.
--12448981.5390841,3955292.92831294,526715,AZTech.Mesa-mTrac29275,RADS,Center,,1129 N Center  - road construction - Northbound alternating lane closures on Center for SRP power line replacement.
--12442301.5452281,3951892.49240288,526738,AZTech.Mesa-mTrac29276,RADS,Lindsay,,436 N Lindsay - road construction - Southbound right lane closure on Lindsay for Telcyte to install Cox service.
--12533559.0656001,3946492.80817077,527343,AZTech.Buckeye-buckeyeaz-p-3016,RADS,Miller RdBaseline Rd Maricopa Rd,,Miller RdBaseline Rd Maricopa Rd - road construction - Pole work
--12528090.7977011,3953287.08662456,527401,AZTech.Buckeye-buckeyeaz-p-3012,RADS,Yuma Rd,,Yuma Rd - road construction - Paving
--12423383.4466234,3942089.05858884,527466,AZTech.Mesa-mTrac29277,RADS,Signal Butte,,4316 S Signal Butte - road construction - Northbound and southbound multiple lane restrictions of Signal Butte for Hylan West to install MCI fiber. Weekend restrictions only from 10-11-25 to 10-19-25.
--12487066.2032,3973285.5624,527511,1106270,Glendale,53RD AVE AND DESERT COVE,southbound,SHOULDER CLOSURES IN NEIGHBOR HOOD
--12488163.6382,3967485.5002,527512,1106271,Glendale,7146 57TH DR,northbound,ALLEY CLOSURE FOR GAS WORK
--12484947.5627,3965833.799,527515,1106272,Glendale,4412 W MARLETTE AVE,westbound,WEST BOUND TRAFFIC SHIFT FOR GAS WORK
--12490192.7439,3963121.3249,527516,1106273,Glendale,63RD AVE AND CAMELBACK,westbound,WEST BOUND RIGHT LANE CLOSED
--12498097.3489,3964062.0867,527532,1106743,Glendale,99TH AVE AND CARDINAL WAY,northbound,NORTH BOUND RIGHT LANE CLOSED AND W/B RIGHT LANE CLOSED
--12452057.9775772,3933427.37543216,527545,329480,ERS,S Alma School Rd,Unknown,On ramp closed on  ramp  from S Alma School Rd  to  202-LOOP Eastbound . All lanes closed.   9/22/2025 11:00 PM  to 11/21/2025 11:00 PM  
--12494375.4807657,4098153.11244151,527554,329483,ERS,SR-69,South,Paving operations on SR-69 Southbound from E Prescott Dells Rd (MP 280)  to  S State Route 69 (MP 264) . 1 Right lane closed.  Width Restriction: 14ft  10/6/2025 6:00 AM  to 10/14/2025 6:00 PM  
--12330620.4042609,3947725.2659247,527571,329493,ERS,US-60,East,Right lane closed on US-60 Eastbound from E Prickly Pear Dr (MP 252)  to  Dream Manor Rd (MP 252) . 1 Right lane closed.  Width Restriction: 23ft  10/6/2025 7:00 AM  to 10/10/2025 3:30 PM  
--12482434.7249737,4054878.12146617,527656,329512,ERS,I-17,South,Construction work on I-17 Southbound from Rest Area (MP 252)  to  Anthem Way (MP 229)    9/22/2025 9:52 AM  to 11/14/2025 6:00 AM  
--12484075.7029266,4011905.18765182,527667,329522,ERS,I-17,North,Construction work on I-17 Northbound from Anthem Way (MP 229)  to  Sunset Point (MP 252)    9/22/2025 10:15 AM  to 11/14/2025 6:00 AM  
--12499903.0947201,3956681.77602032,527757,329565,ERS,I-10 Eastbound,Unknown,Right lane closed on  ramp  from I-10 Eastbound  to  N 99th Ave . 1 Right lane closed.   10/12/2025 9:00 PM  to 11/7/2025 5:00 AM  
--12498130.8884267,3956920.85628123,527758,329566,ERS,N 99th Ave,South,Right lane closed on N 99th Ave Southbound from W Thomas Rd  to  W Roosevelt St . 1 Right lane closed.   10/12/2025 9:00 PM  to 11/7/2025 5:00 AM  
--12429143.4921113,3951501.74933069,527762,AZTech.Mesa-mTrac29287,RADS,82nd Way,,358 N 82nd Way - road construction - Eastbound right lane closed on University Dr at 82nd St for utility repairs by Arizona Pipeline for Southwest Gas Corportation.
--12449937.4331483,3947638.29989991,527874,AZTech.Mesa-mTrac29289,RADS,Southern,,440 E Southern  - road construction - Alternating lane closures for Core Media Solutions to install Lightpath Fiber.
--12480353.9811119,3984960.57664891,528096,329672,ERS,I-17,North,Road maintenance operations on I-17 Northbound from Rose Garden Ln (MP 215)  to  Happy Valley Rd (MP 219) . All lanes closed.   10/25/2025 9:00 PM  to 10/26/2025 10:00 AM  
--12481299.2529817,3992736.29854889,528102,329679,ERS,I-17,South,Road maintenance operations on I-17 Southbound from Jomax Rd (MP 219)  to  Deer Valley Rd (MP 216) . All lanes closed.   10/24/2025 9:00 PM  to 10/25/2025 10:00 AM  
--12478910.4651463,3984511.15293444,528110,329682,ERS,101-LOOP Westbound,Unknown,Road maintenance operations on  ramp  from 101-LOOP Westbound  to  N Black Canyon Hwy . All lanes closed.   10/25/2025 9:00 PM  to 10/26/2025 10:00 AM  
--12481956.1664144,3984394.78459235,528113,329683,ERS,101-LOOP Eastbound,Unknown,Road maintenance operations on  ramp  from 101-LOOP Eastbound  to  I-17 Northbound    10/25/2025 9:00 PM  to 10/26/2025 10:00 AM  
--12432254.5107711,3955393.67967732,528153,AZTech.Mesa-mTrac29298,RADS,McKellips,,6606 E McKellips - road construction - Eastbound and westbound alternating lane restrictions of McKellips for SCI to install Google fiber.
--12487864.4074,3981153.1473,528194,1108815,Glendale,55TH AVE AND GREENBRIER,northbound,VARIOUS TRAFFIC CONTROL FOR FIBER
--12488465.7518,3981539.214,528198,1109234,Glendale,57TH DR AND LIBBY,southbound,VARIOUS TRAFFIC CONTROL FOR FIBER
--12488619.4483,3982398.5616,528200,1109235,Glendale,60TH AVE AND BLUEFIELD,southbound,various traffic control for fiber
--12450743.5221275,3938564.10698252,528216,AZTech.Chandler-1863727,RADS,Arizona Ave,,Arizona Ave - road construction - Pothole
--12449959.6381384,3937954.63326803,528217,AZTech.Chandler-1864017,RADS,Ray Rd,,Ray Rd - road construction - Pot hole
--12450632.2337032,3937942.13557265,528218,AZTech.Chandler-1864018,RADS,Arizona Ave,,Arizona Ave - road construction - Shadow Truck
--12487563.2784,3981537.2109,528222,1109675,Glendale,55TH AVE AND GROVERS,northbound,VARIOUS TRAFFI CCONTROL FOR FIBER
--12487553.2012999,3982350.3994,528229,1110091,Glendale,55TH AVE AND MICHIGAN,southbound,VARIOUS TRAFFIC CONTROL FOR CONSTRUCTION
--12488137.6758,3982129.7472,528233,1110505,Glendale,57TH DR AND WAGONER,southbound,VARIOUS TRAFFIC CONTROL FOR FIBER
--12487400.3432,3982485.0471,528236,1110507,Glendale,55TH AVE AND UNION HILLS,eastbound,EAST BOUND RIGHT LANE CLOSURE
--12486642.1085,3983824.7746,528247,1110932,Glendale,53RD AVE AND ORAIBI DR,southbound,VARIOUS TRAFFIC CONTROL FOR FIBER
--12486966.3992,3983238.9474,528261,1111348,Glendale,51st ave and topeka,southbound,VARIOUS TRAFFIC CONTROL FOR FIBER
--12446922.6627519,3949560.60928288,528275,AZTech.Mesa-mTrac29299,RADS,Broadway,,1027 E Broadway - road construction - Eastbound Broadway right lane closed for City of Mesa Transportation asphalt paving work.
--12446601.8121019,3949516.39367605,528276,AZTech.Mesa-mTrac29300,RADS,Broadway,,1027 E Broadway - restrictions - Solomon closed for City of Mesa Transportation asphalt paving work.  Detour to Horne or Stapley to 6th Ave
--12691216.2423846,4193969.39638095,528315,329744,ERS,SR-66,West,Right lane closed on SR-66 Westbound from I-40 Westbound (MP 57)  to  N Castle Rock Rd (MP 58)    10/6/2025 8:00 PM  to 10/16/2025 5:00 AM  
--12533088.8817171,3952741.84852292,528328,AZTech.Buckeye-buckeyeaz-p-3031,RADS,"YUMA RD, DURANGO ST, WATKINS ST"
--12454011.3851859,3942701.24158551,528329,AZTech.Chandler-1864019,RADS,SYCAMORE PL,,SYCAMORE PL - road construction - W ELLIOT RD AND N SYCAMORE PL
--12453035.4733184,3941814.3701036,528331,AZTech.Chandler-1864029,RADS,Elliot Rd,,Elliot Rd - road construction - W ELLIOT RD AND N SYCAMORE PL
--12453144.3824749,3942394.35819967,528332,AZTech.Chandler-1864030,RADS,SYCAMORE PL,,SYCAMORE PL - road construction - W ELLIOT RD AND N SYCAMORE PL
--12453303.1868325,3941824.98601145,528333,AZTech.Chandler-1864031,RADS,SYCAMORE PL,,SYCAMORE PL - road construction - W ELLIOT RD AND N SYCAMORE PL
--12452800.8865432,3942010.74529114,528334,AZTech.Chandler-1864032,RADS,Central Dr,,Central Dr - road construction - W ELLIOT RD AND N SYCAMORE PL
--12452812.3698567,3941824.7544267,528335,AZTech.Chandler-1864337,RADS,Central Dr,,Central Dr - road construction - W ELLIOT RD AND N SYCAMORE PL
--12456954.4734762,3945645.32243466,528382,329765,ERS,E Baseline Rd,West,Roadway reduced to one lane on E Baseline Rd Westbound from S Kenwood Ln  to  S El Dorado . 1 Lane Closed.   10/18/2025 11:20 AM  to 11/2/2025 11:23 AM  
--12456041.0567625,3945634.55494025,528399,329771,ERS,E Baseline Rd,East,Right lane closed on E Baseline Rd Eastbound from S Price Rd  to  S Kenwood Ln . 1 Lane Closed.   10/18/2025 5:00 AM  to 11/2/2025 3:30 PM  
--12455918.2555393,3945809.60896946,528404,329775,ERS,S Price Rd,South,Exit ramp restricted on S Price Rd Southbound from E Ellis Dr-Alley  to  E Baseline Rd . 1 Right lane closed.   10/18/2025 5:00 AM  to 11/2/2025 3:30 PM  
--12455832.9271553,3945504.35323591,528409,329776,ERS,N Price Rd,North,Exit ramp restricted on N Price Rd Northbound from 101-LOOP Northbound  to  E Baseline Rd . 1 Left lane closed.   10/18/2025 5:00 AM  to 11/2/2025 3:30 PM  
--12459591.2726411,3947084.51855495,528432,329786,ERS,S Rural Rd,South,Right lane closed on S Rural Rd Southbound from E La Jolla Dr  to  E Baseline Rd . 1 Right lane closed.   10/18/2025 5:00 AM  to 11/2/2025 3:30 PM  
--12460202.1115236,3946583.80996353,528436,329790,ERS,US-60 Eastbound,Unknown,Exit ramp restricted on  ramp  from US-60 Eastbound  to  S Rural Rd . 1 Right lane closed.   10/18/2025 5:00 AM  to 11/2/2025 3:30 PM  
--12458921.9373795,3946618.47290128,528442,329792,ERS,US-60 Westbound,Unknown,Exit ramp restricted on  ramp  from US-60 Westbound  to  S Rural Rd . 1 Right lane closed.   10/18/2025 5:00 AM  to 11/2/2025 3:30 PM  
--12440402.3572435,3946260.18751274,528454,AZTech.Mesa-mTrac29306,RADS,Southern,,3600 E Southern - road construction - Various lane restrictions on Val Vista and on Southern for CIP CP0062 Val Vista Rd Improvements by Granite Construction.   Speed reduced to 35 MPH.
--12490854.0673,3985528.9785,528581,1111763,Glendale,67TH DR AND FIREBIRD,westbound,WEST BOUND AND NORTH BOUND SHOULDER CLOSURES
--12483387.735066,3956773.84660976,528598,329822,ERS,I-10 Eastbound,Unknown,Exit ramp restricted on  ramp  from I-10 Eastbound  to  N 35th Ave . 1 Left Ramp Closed.   9/27/2025 5:00 AM  to 10/12/2025 9:00 PM  
--12482754.3271634,3956591.7094485,528608,329827,ERS,N 35th Ave,North,Left lane closed on N 35th Ave Northbound from W Latham St  to  W Palm Ln . 1 Left lane closed.   9/27/2025 5:00 AM  to 10/12/2025 9:00 PM  
--12454741.715173,3933727.64744814,528612,329830,ERS,202-LOOP,West,Right lane closed on 202-LOOP Westbound from 101-LOOP Northbound (MP 50)  to  Price Rd (MP 62) . 1 Right lane closed.   9/29/2025 5:00 AM  to 11/23/2025 10:00 PM  
--12440769.9016342,3882608.66913833,528831,329888,ERS,SR-387,North,Right lane closed on SR-387 Northbound from W Viola St (MP 2)  to  W Casa Grande Lakes Blvd S (MP 2) . 1 Right lane closed.   10/16/2025 7:00 PM  to 10/18/2025 5:00 AM  
--12440750.4337804,3883853.38196583,528832,329889,ERS,SR-387,South,Right lane closed on SR-387 Southbound from W Industrial Way (MP 2)  to  W Viola St (MP 2) . 1 Right lane closed.   10/16/2025 7:00 PM  to 10/18/2025 5:00 AM  
--12440769.8988316,3882609.55038678,528833,329890,ERS,SR-387,North,Left lane closed on SR-387 Northbound from W Viola St (MP 2)  to  W Casa Grande Lakes Blvd S (MP 2) . 1 Left lane closed.   10/16/2025 7:00 PM  to 10/18/2025 5:00 AM  
--12440750.0362219,3883869.08876556,528837,329892,ERS,SR-387,South,Left lane closed on SR-387 Southbound from W Industrial Way (MP 2)  to  W Viola St (MP 2) . 1 Left lane closed.   10/16/2025 7:00 PM  to 10/18/2025 5:00 AM  
--12442286.7347803,3953115.93103131,528875,AZTech.Mesa-mTrac28869,RADS,Lindsay,,800 N Lindsay  - road construction - Northbound and Southbound alternating lane closure for Ansco to install Gigapower Fiber.
--12451691.5785508,3936972.67977701,528919,AZTech.Chandler-1864351,RADS,Galveston ST,,Galveston ST - road construction - Flagger
--12450297.414878,3935511.90290445,528920,AZTech.Chandler-1864352,RADS,Alley,,Alley - road construction - Sb Alley Closure
--12449625.2660974,3938904.7228478,528921,AZTech.Chandler-1864658,RADS,Knox Rd,,Knox Rd - road construction - bore
--12449192.6298754,3938900.40873758,528922,AZTech.Chandler-1864659,RADS,Hamilton St,,Hamilton St - road construction - bore
--12449177.6718303,3938813.38256161,528923,AZTech.Chandler-1864660,RADS,Hamilton Rd,,Hamilton Rd - road construction - bore
--12449185.1154194,3938901.19750893,528924,AZTech.Chandler-1864661,RADS,Hamilton Rd,,Hamilton Rd - road construction - bore
--12450487.5874494,3952464.09896994,528925,AZTech.Mesa-mTrac29311,RADS,. Rio Salado,,436 W. Rio Salado - road construction - W. Rio Salado Pkwy. football and westbound double right lane closure for City of Mesa crews to do sewer repairs.
--12449308.3861546,3933299.53509487,529028,329957,ERS,202-LOOP Westbound,Unknown,Left lane closed on  ramp  from 202-LOOP Westbound  to  SR-87 Northbound . 1 Left lane closed.  Width Restriction: 12ft  9/24/2025 10:19 AM  to 10/17/2025 11:00 PM  
--12450874.65139,3933487.30107438,529029,329958,ERS,202-LOOP Eastbound,Unknown,Left lane closed on  ramp  from 202-LOOP Eastbound  to  SR-87 Northbound . 1 Left lane closed.  Width Restriction: 12ft  9/24/2025 10:21 AM  to 10/17/2025 11:00 PM  
--12606507.8746817,4086435.67916339,529034,329959,ERS,State Route 97,North,Construction work on State Route 97 Northbound  near   US-93 Northbound   Width Restriction: 14ft Speed Restriction: 35mph  10/13/2025 6:00 AM  to 10/31/2025 6:00 PM  
--12480257.712394,3990324.87434144,529075,329971,ERS,W Happy Valley Rd,West,Roadway reduced to two lanes on W Happy Valley Rd Westbound from N Norterra Pkwy  to  I-17 Northbound . 1 Right lane closed.   10/13/2025 9:00 PM  to 12/19/2025 5:00 AM  
--12434945.0607731,3945169.39171674,529136,1855,TRAVELIQ,N Recker Rd,Both,Construction zone on N Recker Rd Both from E Melody Dr to E San Angelo Ave.  Starting 2025-09-26 12:00 AM and ending 2025-10-10 12:00 AM.
--12435127.4451896,3944800.10578099,529145,1856,TRAVELIQ,E Houston Ave,West,Construction zone on E Houston Ave West from N Highland Glen Ln to N Recker Rd.  Starting 2025-09-26 12:00 AM and ending 2025-10-10 12:00 AM.
--12241027.3924906,3900111.22214027,529164,330003,ERS,US-70,West,Shoulder closed on US-70 Westbound from W Tyler Pl (MP 307)  to  N Black Rock Rd (MP 307) . All Shoulders Closed.  Width Restriction: 14ft  10/22/2025 6:30 AM  to 10/24/2025 5:00 PM  
--12241164.5253066,3900175.23955275,529165,330004,ERS,US-70,West,Shoulder closed on US-70 Westbound from W Loop Rd (MP 307)  to  W Loop Rd (MP 306) . All Shoulders Closed.  Width Restriction: 14ft  10/14/2025 6:30 AM  to 10/24/2025 5:00 PM  
--12423674.3813831,3947620.63056967,529225,AZTech.Mesa-mTrac29333,RADS,Southern,,10837 E Southern - road construction - Alternating eastbound and westbound lane restrictions on Southern Ave for water line installation by Hunter Contracting for Medina Station development.
--12423038.4108787,3946778.27314311,529226,AZTech.Mesa-mTrac29334,RADS,Signal Butte,,1235 S Signal Butte - road construction - Northbound right lane closed on Signal Butte for offsite improvements by Hunter Contracting for Medina Station development.
--12432609.7356036,3958620.58022149,529227,AZTech.Mesa-mTrac29335,RADS,Power,,2936 N Power - road construction - Southbound lane restriction and northbound left turn restriction of Power at Preston for SCI to install Google fiber.
--12433162.8215979,3958162.11600846,529228,AZTech.Mesa-mTrac29336,RADS,Preston,,6729 E Preston - road construction - Eastbound and westbound lane restrictions of Preston at Power for SCI to install Google fiber.
--12434110.1454021,3957370.19656235,529229,AZTech.Mesa-mTrac29337,RADS,McDowell,,6611 E McDowell - road construction - Eastbound and westbound right lane and left lane restrictions of McDowell for SCI to install Google fiber.
--12432967.7646323,3956401.71028758,529230,AZTech.Mesa-mTrac29338,RADS,Hermosa Vista,,6725 E Hermosa Vista - road construction - Westbound directional closure and eastbound flagging of Hermosa Vista and northbound left turn restriction of Power for SCI to install Google fiber.
--12451805.0334347,3939843.65479914,530492,AZTech.Chandler-1864980,RADS,W HIGHLAND ST,,W HIGHLAND ST - road construction - UTILITY INSTALL
--12427218.5456815,3939956.71395863,530493,AZTech.Mesa-mTrac23018,RADS,Warner,,9321 E Warner - road construction - Eastbound Warner 24-hour lane shift for Redpoint.
--12455802.9560996,3933971.1503606,530538,AZTech.Chandler-1864664,RADS,Price Rd,,Price Rd - road construction - Sewer Bypass
--12455389.7784902,3929865.12254634,530539,AZTech.Chandler-1864665,RADS,Price Rd,,Price Rd - road construction - Sewer Bypass
--12491545.6338,3986160.42239999,530555,1113900,Glendale,DEER VALLEY AND 73RD AVE,westbound,WEST BOUND RIGHT LANE CLOSURE
--12488590.0614662,3984346.74392112,530557,330128,ERS,101-LOOP,West,Roadway reduced to two lanes on 101-LOOP Westbound from 59th Ave (MP 19)  to  67th Ave (MP 18)    10/10/2025 10:00 PM  to 10/11/2025 5:00 AM  ,,,,,No Data,33.66806,-112.2029,roadwork
--12447076.3503118,3953375.50814239,530577,AZTech.Mesa-mTrac29348,RADS,Brown,,650 E Brown  - road construction - Northbound and southbound lane shifts on Horne for Gonzalez to install LSC Fiber.
--12447677.0100245,3953260.64987333,530578,AZTech.Mesa-mTrac29349,RADS,Brown,,650 E Brown  - road construction - Eastbound right lane closure on Brown for Gonzalez Construction to install LSC Fiber.
--12446100.2661006,3952701.66175174,530579,AZTech.Mesa-mTrac29350,RADS,Brown,,650 E Brown  - road construction - Alternating lane closures with left turn prohibitions at Staple for Gonzalez Construction to install LSC Fiber.
--12439889.5822563,3896493.89881484,530640,330151,ERS,SR-187,North,Road reconstruction on SR-187 Northbound from SR387 (MP 187)  to  SR87 (MP 192) . Lane Alternating.  Width Restriction: 11ft  10/7/2025 6:00 AM  to 3/20/2026 6:00 PM  
--12433124.5483476,3903399.07236705,530666,330155,ERS,SR-187,South,Road reconstruction on SR-187 Southbound from SR87 (MP 192)  to  SR387 (MP 187) . Lane Alternating.  Width Restriction: 11ft  10/7/2025 6:00 AM  to 3/20/2026 6:00 PM  
--12220338.0093435,3875719.30679406,530671,330157,ERS,US-70,East,Construction work on US-70 Eastbound from N Reay Ln (MP 335)  to  E 8th St (MP 340)    10/2/2025 7:00 AM  to 5/1/2026 5:00 PM  
--12211625.4769639,3872977.02983601,530674,330158,ERS,US-70,West,Construction work on US-70 Westbound from E 8th St (MP 340)  to  N Reay Ln (MP 335)    10/2/2025 7:00 AM  to 5/1/2026 5:00 PM  
--12455351.2551785,3981912.87191013,530707,330167,ERS,N Pima Rd,South,Left lanes closed on N Pima Rd Southbound from E Trailside Vw  to  101-LOOP Eastbound . 2 Left Lanes Closed.   10/11/2025 5:00 AM  to 10/11/2025 5:00 PM  
--12455676.5219837,3979205.6490812,530709,330168,ERS,E Frank Lloyd Wright Blvd,West,Right lane closed on E Frank Lloyd Wright Blvd Westbound from N Pima Rd  to  N Hayden Rd . 1 Right lane closed.   10/11/2025 5:00 AM  to 10/11/2025 5:00 PM  
--12456415.0224468,3982048.94281546,530712,330169,ERS,101-LOOP Eastbound,Unknown,Exit ramp closed on  ramp  from 101-LOOP Eastbound  to  N Pima Rd . All lanes closed.   10/13/2025 10:00 PM  to 10/15/2025 5:00 AM  
--12455611.980759,3977787.48697807,530716,330171,ERS,N Pima Rd,North,Parallel/frontage roadway closed on N Pima Rd Northbound from E Raintree Dr  to  E Frank Lloyd Wright Blvd . All lanes closed.   10/15/2025 10:00 PM  to 10/16/2025 6:00 AM  
--12455651.4842811,3980541.74029365,530718,330173,ERS,N Pima Rd,South,Parallel/frontage roadway closed on N Pima Rd Southbound from E Bell Rd  to  E Frank Lloyd Wright Blvd . All lanes closed.   10/16/2025 10:00 PM  to 10/17/2025 6:00 AM  
--12455662.0702368,3972913.89182518,530721,330175,ERS,101-LOOP,North,Right lanes closed on 101-LOOP Northbound from E Shea Blvd (MP 41)  to  Princess Dr (MP 37) . 2 Right Lanes Closed.   10/27/2025 10:00 PM  to 10/31/2025 5:00 AM  
--12455878.8344601,3981445.84338288,530722,330176,ERS,101-LOOP,South,Right lanes closed on 101-LOOP Southbound from N Pima Rd (MP 37)  to  Shea Blvd (MP 41) . 2 Right Lanes Closed.   11/3/2025 10:00 PM  to 11/7/2025 5:00 AM  
--12436475.3630021,3957378.49538174,530790,AZTech.Mesa-mTrac28858,RADS,Mcdowell,,4958 E Mcdowell - road construction - Westbound right lane closure on McDowell for Hylan West to replace cell site pole. For Boldyn networks.
--12430493.9012796,3933221.08428159,530791,AZTech.Mesa-mTrac29352,RADS,Pecos,,8017 E Pecos - road construction - Eastbound and westbound lane shifts on Pecos for Nesbit to install new ADA ramps for the City of Mesa.
--12432607.1229509,3958644.50279622,530821,330212,ERS,N Power Rd,South,Turning lane closed on N Power Rd Southbound from E Eagle Crest Dr  to  202-LOOP Westbound . 1 Right lane closed.   9/29/2025 6:00 AM  to 10/11/2025 5:00 PM  
--12432587.0854425,3958487.29391647,530828,330219,ERS,N Power Rd,Unknown,On ramp restricted on  ramp  from N Power Rd  to  202-LOOP Northbound . 1 Right lane closed.   9/29/2025 6:00 AM  to 10/11/2025 5:00 PM  
--12432252.3043267,3947618.47100518,530833,AZTech.Mesa-mTrac28611,RADS,Southern,,7205 E Southern - road construction - Alternating lane restrictions on Southern for Northstar Communications to install Google Fiber.
--12432589.2859057,3958348.72210056,530856,330221,ERS,N Power Rd,North,Turning lane closed on N Power Rd Northbound from E Preston St  to  202-LOOP Northbound . 1 Lane Closed.   9/29/2025 6:00 AM  to 10/11/2025 5:00 PM  
--12319512.1975989,3774865.96910744,530969,409803,Tucson,USE CAUTION: FLOODING OLD SPANISH TR WEST OF S X9 RANCH RD   WESTBOUND,,USE CAUTION: FLOODING OLD SPANISH TR WEST OF S X9 RANCH RD   WESTBOUND - Old Spanish Tr west of S X9 Ranch Rd  Westbound.  Status: Proceed with Caution due to FloodingFor more information please contact Pima County Community Relations at (520) 724-6410
+﻿X,Y,ID,Description
+524260,-12456432.8525474,3941747.89609966,Roadway reduced to one lane on E Elliot Rd Eastbound from S Country Club Way  to  N Price Rd    10/6/2025 9:00 PM  to 10/10/2025 5:00 AM
+524264,-12456432.8525474,3941747.89609966,Roadway reduced to one lane on E Elliot Rd Eastbound from S Country Club Way  to  N Price Rd    10/25/2025 5:00 AM  to 10/26/2025 7:00 PM
+524266,-12455889.7715639,3941741.04573325,Exit ramp restricted on N Price Rd Northbound from 101-LOOP Northbound  to  101-LOOP Northbound    10/6/2025 9:00 PM  to 10/10/2025 5:00 AM
+524268,-12455889.7715639,3941741.04573325,Exit ramp restricted on N Price Rd Northbound from 101-LOOP Northbound  to  101-LOOP Northbound    10/25/2025 5:00 AM  to 10/26/2025 7:00 PM
+524270,-12455566.2532783,3941770.66753154,Roadway reduced to one lane on W Elliot Rd Westbound from N Coronado St  to  S River Pkwy    10/25/2025 5:00 AM  to 10/26/2025 7:00 PM
+524274,-12455566.2532783,3941770.66753154,Roadway reduced to one lane on W Elliot Rd Westbound from N Coronado St  to  S River Pkwy    10/6/2025 9:00 PM  to 10/10/2025 5:00 AM
+524280,-12456068.8245144,3942225.42719815,Exit ramp restricted on S Price Rd Southbound from 101-LOOP Southbound  to  101-LOOP Southbound    10/25/2025 5:00 AM  to 10/26/2025 7:00 PM
+524357,-12321755.2853384,3763578.41182401,"ROAD WORK, OLD SONOITA HIGHWAY - APPROXIMATELY SIX MILES, THURSDAY, SEPTEMBER 18, THROUGH TUESDAY, NOVEMBER 4, 2025 - Flaggers and pilot car operation will be on site to direct, monitor and control traffic movements through the construction zone.  Due to the work area limitations, turn movements within the project limits may be restricted during this work.  Minor delays and lane closures may also occur.  Please approach the area with caution, obey all traffic control devices and allow for extra travel time."
+524394,-12153788.1978721,4201997.44211083,Construction work on I-40 Eastbound from Allentown Rd (MP 350)  to  Allentown Rd (MP 353)   Width Restriction: 28ft  4/21/2025 6:00 AM  to 10/31/2025 6:00 PM
+524607,-12450411.1922876,3945688.9058433,AZTech.Mesa-75 W Baseline - road construction - Eastbound Baseline two right lanes closed with speed reduced to 35 MPH when pedestrians are detoured into the roadway for Town of Gilbert 12-inch water line project WA1140 by Stacy Witbeck.
+524666,-12489072.0722,3981948.8359,VARIOUS TRAFFIC CONTROL FOR FIBER
+524671,-12489342.7369,3981879.7142,VARIOUS TRAFFIC CONTROL FOR FIBER
+524690,-12492844.9814,3967528.6811,VARIOUS TRAFFIC CONTROL ON NEIGHBORHOOD
+524697,-12485140.9312,3972324.0187,VARIOUS SHOULDER CLOSURES
+524732,-12556749.1590171,4202629.75329363,Shoulder closed on I-40 Westbound from Historic Route 66 (MP 127)  to  Fort Rock Rd (MP 108)    9/29/2025 6:00 AM  to 10/17/2025 5:00 PM
+524761,-12458733.8074401,3934061.27121301,Exit ramp restricted on  ramp  from 202-LOOP Eastbound  to  S McClintock Dr    10/13/2025 6:00 AM  to 10/14/2025 3:00 PM
+524780,-12457877.586401,3938405.85491652,AZTech.Chandler-MCCLINTOCK DR - road construction - SLURRY
+524781,-12457898.4658983,3938411.57729909,AZTech.Chandler-MCCLINTOCK DR - road construction - SLURRY
+524784,-12483688.8238092,3956744.69834252,HOV lane closed on I-10 Eastbound from 35th Ave (MP 141)  to  35th Ave (MP 142)    10/15/2025 9:00 PM  to 10/17/2025 5:00 AM
+524785,-12483690.7068921,3956744.59876003,Shoulder closed on I-10 Eastbound from 35th Ave (MP 141)  to  35th Ave (MP 142)    10/16/2025 5:00 AM  to 10/16/2025 9:00 PM
+524816,-12436604.615816,3947709.44695333,AZTech.Mesa-4833 E Southern - road construction - Restriction times: 8:45AM-1:45PM except Wednesdays 8:45AM-11:45AMEastbound or westbound Southern right lane closed for contracted enforcement camera utility work by B & F Contracting
+524841,-12483028.6244642,3984589.57945394,Roadway closed on W Beardsley Rd Westbound from N 35th Ave  to  N 51st Ave    10/1/2025 4:00 AM  to 10/22/2025 4:00 PM
+524938,-12455646.9179604,3979083.78201763,Parallel/frontage road restricted on N Pima Rd Southbound from E Frank Lloyd Wright Blvd  to  E Raintree Dr . 1 Left lane closed.   9/17/2025 10:00 PM  to 10/21/2025 5:00 AM
+525005,-12452647.364022,3941287.79640213,AZTech.Chandler-Alley - road construction - Alley Closure trenching
+525008,-12448661.5484245,3950548.10738599,AZTech.Mesa-100 E MAIN ST - road construction - Westbound Main and Northbound Sirrine restrictions for Pacific Network Solutions,,,,,No Data,,,roadwork,road construction
+525035,-12490816.0435,3979131.8205,VARIOUS PARTIAL ROAD CLOSURES
+525302,-12485085.9845,3972133.7419,VARIOUS TRAFFIC CONTROL
+525312,-12492316.0845,3966726.1025,NORTH AND EAST BOUND RIGHT LANE CLOSURES
+525442,-12450783.8765259,3930174.53013676,AZTech.Chandler-S Hartford St - road construction - bore / trench /pull
+525488,-12451671.1313312,3936967.21486102,AZTech.Chandler-Galveston ST - road construction - Directional
+525564,-12481846.9349433,4073599.16164211,Road maintenance operations on SR-69 Northbound from Arizona Veterans Hwy (MP 263)  to  E Prescott Dells Rd (MP 280) . 1 Right lane closed.  Width Restriction: 14ft  10/6/2025 6:00 AM  to 10/14/2025 6:00 PM  
+525619,-12426279.4558779,3932231.73399433,AZTech.Mesa-7302 S Ellsworth - road construction - Westbound lane shift on Germann and a northbound Shoulder closure on Ellsworth for SRP to relocate the transformer box.
+525620,-12427099.2566838,3932242.99448651,AZTech.Mesa-7302 S Ellsworth - road construction - Westbound lane shift on Germann and a northbound Shoulder closure on Ellsworth for SRP to relocate the transformer box.
+525705,-12374634.0472161,3819193.73868756,TANGERINE ROAD I-10 WESTBOUND OFF-RAMP IMPROVEMENTS - Please use caution in the area and be aware of traffic control devices.
+525817,-12321679.4767652,3776081.6673852,USE CAUTION: FLOODING CAMINO LOMA ALTA SOUTH OF OLD SPANISH TR AT THE WASH  SOUTHBOUND - Camino Loma Alta south of Old Spanish Tr at the wash Southbound.  Status: Proceed with Caution due to FloodingFor more information please contact Pima County Community Relations at (520) 724-6410
+525820,-12321682.8163499,3776006.76672103,USE CAUTION: FLOODING CAMINO LOMA ALTA NORTH OF PIEDEMONTE WY AT THE WASH  NORTHBOUND - Camino Loma Alta north of Piedemonte Wy at the wash Northbound.  Status: Proceed with Caution due to FloodingFor more information please contact Pima County Community Relations at (520) 724-6410
+525847,-12331115.1394438,3756626.73474681,USE CAUTION: FLOODING S HOUGHTON RD NORTH OF W CAMINO DEL TORO   NORTHBOUND - S Houghton Rd North of W Camino Del Toro  Northbound.  Status: Proceed with Caution due to FloodingFor more information please contact Pima County Community Relations at (520) 724-6410
+525851,-12331169.2407163,3756944.48769525,USE CAUTION: FLOODING HOUGHTON RD SOUTH OF W FOREST FEEZOR ST   SOUTHBOUND - Houghton Rd south of W Forest Feezor St  Southbound.  Status: Proceed with Caution due to FloodingFor more information please contact Pima County Community Relations at (520) 724-6410
+525935,-12454014.6514853,3932925.46305845,AZTech.Chandler-Dobson Rd - road construction - Fixing the damaged cox fiber and re routing new fiber running line restricting the NB & SB Right 2 L
+525936,-12453993.2924658,3933781.92598806,AZTech.Chandler-Dobson Rd - road construction - Fixing the damaged cox fiber and re routing new fiber running line restricting the NB & SB Right 2 L
+526019,-12487543.8523,3973293.8314,VARIOUS TRAFFIC CONTROL FOR FIBER
+526061,-12447438.2187093,3932894.71663712,Center lane closed on  ramp  from 202-LOOP Westbound  to  S McQueen Rd . All lanes closed.   9/22/2025 12:00 AM  to 10/17/2025 11:00 PM  
+526064,-12448229.4651559,3933044.36409498,Turning lane closed on S McQueen Rd Southbound from E Hawken Way  to  202-LOOP Westbound . 1 Left lane closed.   10/14/2025 5:00 AM  to 10/24/2025 11:00 PM  
+526065,-12448206.0278797,3932659.99999422,Turning lane closed on S McQueen Rd Northbound from 202-LOOP Eastbound  to  202-LOOP Westbound . 1 Lane Closed.   10/14/2025 5:00 AM  to 10/24/2025 11:00 PM  
+526090,-12367218.0540589,3933925.4334918,On ramp closed on  ramp  from SR-177  to  US-60 . All lanes closed.   10/11/2025 6:30 AM  to 10/12/2025 5:00 PM  
+526098,-12330982.7080564,3893678.09363716,Parade on SR-177 Northbound from N Thorne Ave (MP 137)  to  N Lower Rd (MP 138)    10/17/2025 3:45 PM  to 10/17/2025 4:15 PM  
+526099,-12367545.727387,3933804.01058978,Highway closed intermittently on US-60 Eastbound from SR-177 (MP 227)  to  S Magma Ave (MP 227) . All Lanes Intermittent.  Width Restriction: 14ft  10/11/2025 6:30 AM  to 10/12/2025 10:00 AM  
+526100,-12729314.8298238,4095662.5076227,Highway closed intermittently on SR-95 Northbound from W Acoma Blvd (MP 184)  to  Palo Verde Blvd N (MP 185)   Speed Restriction: 35mph  9/22/2025 11:00 PM  to 10/10/2025 5:00 AM  
+526101,-12366861.1417932,3934190.96119933,Highway closed intermittently on US-60 Westbound from SR-177 (MP 227)  to  S Church Ave (MP 227)   Width Restriction: 12ft  10/11/2025 6:30 AM  to 10/11/2025 4:00 PM  
+526102,-12729314.8298238,4095662.5076227,Highway closed intermittently on SR-95 Southbound from W Acoma Blvd (MP 184)  to  Palo Verde Blvd N (MP 185)   Speed Restriction: 35mph  9/22/2025 11:00 PM  to 10/10/2025 5:00 AM  
+526105,-12333298.7459259,3895703.04276754,Parade on SR-177 Southbound  near   N Lower Rd (MP 138)    10/17/2025 3:45 PM  to 10/17/2025 4:15 PM  
+526212,-12448197.2130281,3935065.79877596,AZTech.Chandler-E BUTLER DR - road construction - slurry sealing full width of road curb to curb
+526219,-12453990.2707773,3936970.6553465,AZTech.Chandler-N Ash Dr - road construction - Installing telecommunications for the Gigapower project.
+526277,-12454214.4507698,3927786.36355165,AZTech.Chandler-"Dobson - road construction - MICROTRENCHING (CORING
+526278,-12453965.7536785,3926839.97284018,AZTech.Chandler-"Dobson Rd - road construction - MICROTRENCHING (CORING
+526279,-12454085.5239317,3927705.65481799,AZTech.Chandler-"Dobson - road construction - MICROTRENCHING (CORING
+526280,-12453778.8247894,3927981.8136567,AZTech.Chandler-"Dobson - road construction - MICROTRENCHING (CORING
+526281,-12454089.9463923,3927712.64269128,AZTech.Chandler-"Dobson - road construction - MICROTRENCHING (CORING
+526282,-12453750.3726904,3927994.50479436,AZTech.Chandler-"Dobson - road construction - MICROTRENCHING (CORING
+526419,-12432031.2996403,3949591.53072234,AZTech.Mesa-7602 E Broadway - road construction - Alternating lane closures for on Broadway for Northstar to install Google Fiber.
+526715,-12448981.5390841,3955292.92831294,AZTech.Mesa-1129 N Center  - road construction - Northbound alternating lane closures on Center for SRP power line replacement.
+526738,-12442301.5452281,3951892.49240288,AZTech.Mesa-436 N Lindsay - road construction - Southbound right lane closure on Lindsay for Telcyte to install Cox service.
+527343,-12533559.0656001,3946492.80817077,AZTech.Buckeye-buckeyeaz-p-Miller RdBaseline Rd Maricopa Rd - road construction - Pole work
+527401,-12528090.7977011,3953287.08662456,AZTech.Buckeye-buckeyeaz-p-Yuma Rd - road construction - Paving
+527466,-12423383.4466234,3942089.05858884,AZTech.Mesa-4316 S Signal Butte - road construction - Northbound and southbound multiple lane restrictions of Signal Butte for Hylan West to install MCI fiber. Weekend restrictions only from 10-11-25 to 10-19-25.
+527511,-12487066.2032,3973285.5624,SHOULDER CLOSURES IN NEIGHBOR HOOD
+527512,-12488163.6382,3967485.5002,ALLEY CLOSURE FOR GAS WORK
+527515,-12484947.5627,3965833.799,WEST BOUND TRAFFIC SHIFT FOR GAS WORK
+527516,-12490192.7439,3963121.3249,WEST BOUND RIGHT LANE CLOSED
+527532,-12498097.3489,3964062.0867,NORTH BOUND RIGHT LANE CLOSED AND W/B RIGHT LANE CLOSED
+527545,-12452057.9775772,3933427.37543216,On ramp closed on  ramp  from S Alma School Rd  to  202-LOOP Eastbound . All lanes closed.   9/22/2025 11:00 PM  to 11/21/2025 11:00 PM  
+527554,-12494375.4807657,4098153.11244151,Paving operations on SR-69 Southbound from E Prescott Dells Rd (MP 280)  to  S State Route 69 (MP 264) . 1 Right lane closed.  Width Restriction: 14ft  10/6/2025 6:00 AM  to 10/14/2025 6:00 PM  
+527571,-12330620.4042609,3947725.2659247,Right lane closed on US-60 Eastbound from E Prickly Pear Dr (MP 252)  to  Dream Manor Rd (MP 252) . 1 Right lane closed.  Width Restriction: 23ft  10/6/2025 7:00 AM  to 10/10/2025 3:30 PM  
+527656,-12482434.7249737,4054878.12146617,Construction work on I-17 Southbound from Rest Area (MP 252)  to  Anthem Way (MP 229)    9/22/2025 9:52 AM  to 11/14/2025 6:00 AM  
+527667,-12484075.7029266,4011905.18765182,Construction work on I-17 Northbound from Anthem Way (MP 229)  to  Sunset Point (MP 252)    9/22/2025 10:15 AM  to 11/14/2025 6:00 AM  
+527757,-12499903.0947201,3956681.77602032,Right lane closed on  ramp  from I-10 Eastbound  to  N 99th Ave . 1 Right lane closed.   10/12/2025 9:00 PM  to 11/7/2025 5:00 AM  
+527758,-12498130.8884267,3956920.85628123,Right lane closed on N 99th Ave Southbound from W Thomas Rd  to  W Roosevelt St . 1 Right lane closed.   10/12/2025 9:00 PM  to 11/7/2025 5:00 AM  
+527762,-12429143.4921113,3951501.74933069,AZTech.Mesa-358 N 82nd Way - road construction - Eastbound right lane closed on University Dr at 82nd St for utility repairs by Arizona Pipeline for Southwest Gas Corportation.
+527874,-12449937.4331483,3947638.29989991,AZTech.Mesa-440 E Southern  - road construction - Alternating lane closures for Core Media Solutions to install Lightpath Fiber.
+528096,-12480353.9811119,3984960.57664891,Road maintenance operations on I-17 Northbound from Rose Garden Ln (MP 215)  to  Happy Valley Rd (MP 219) . All lanes closed.   10/25/2025 9:00 PM  to 10/26/2025 10:00 AM  
+528102,-12481299.2529817,3992736.29854889,Road maintenance operations on I-17 Southbound from Jomax Rd (MP 219)  to  Deer Valley Rd (MP 216) . All lanes closed.   10/24/2025 9:00 PM  to 10/25/2025 10:00 AM  
+528110,-12478910.4651463,3984511.15293444,Road maintenance operations on  ramp  from 101-LOOP Westbound  to  N Black Canyon Hwy . All lanes closed.   10/25/2025 9:00 PM  to 10/26/2025 10:00 AM  
+528113,-12481956.1664144,3984394.78459235,Road maintenance operations on  ramp  from 101-LOOP Eastbound  to  I-17 Northbound    10/25/2025 9:00 PM  to 10/26/2025 10:00 AM  
+528153,-12432254.5107711,3955393.67967732,AZTech.Mesa-6606 E McKellips - road construction - Eastbound and westbound alternating lane restrictions of McKellips for SCI to install Google fiber.
+528194,-12487864.4074,3981153.1473,VARIOUS TRAFFIC CONTROL FOR FIBER
+528198,-12488465.7518,3981539.214,VARIOUS TRAFFIC CONTROL FOR FIBER
+528200,-12488619.4483,3982398.5616,various traffic control for fiber
+528216,-12450743.5221275,3938564.10698252,AZTech.Chandler-Arizona Ave - road construction - Pothole
+528217,-12449959.6381384,3937954.63326803,AZTech.Chandler-Ray Rd - road construction - Pot hole
+528218,-12450632.2337032,3937942.13557265,AZTech.Chandler-Arizona Ave - road construction - Shadow Truck
+528222,-12487563.2784,3981537.2109,VARIOUS TRAFFI CCONTROL FOR FIBER
+528229,-12487553.2012999,3982350.3994,VARIOUS TRAFFIC CONTROL FOR CONSTRUCTION
+528233,-12488137.6758,3982129.7472,VARIOUS TRAFFIC CONTROL FOR FIBER
+528236,-12487400.3432,3982485.0471,EAST BOUND RIGHT LANE CLOSURE
+528247,-12486642.1085,3983824.7746,VARIOUS TRAFFIC CONTROL FOR FIBER
+528261,-12486966.3992,3983238.9474,VARIOUS TRAFFIC CONTROL FOR FIBER
+528275,-12446922.6627519,3949560.60928288,AZTech.Mesa-1027 E Broadway - road construction - Eastbound Broadway right lane closed for City of Mesa Transportation asphalt paving work.
+528276,-12446601.8121019,3949516.39367605,AZTech.Mesa-1027 E Broadway - restrictions - Solomon closed for City of Mesa Transportation asphalt paving work.  Detour to Horne or Stapley to 6th Ave
+528315,-12691216.2423846,4193969.39638095,Right lane closed on SR-66 Westbound from I-40 Westbound (MP 57)  to  N Castle Rock Rd (MP 58)    10/6/2025 8:00 PM  to 10/16/2025 5:00 AM  
+528328,-12533088.8817171,3952741.84852292,AZTech.Buckeye-buckeyeaz-p- WATKINS ST"
+528329,-12454011.3851859,3942701.24158551,AZTech.Chandler-SYCAMORE PL - road construction - W ELLIOT RD AND N SYCAMORE PL
+528331,-12453035.4733184,3941814.3701036,AZTech.Chandler-Elliot Rd - road construction - W ELLIOT RD AND N SYCAMORE PL
+528332,-12453144.3824749,3942394.35819967,AZTech.Chandler-SYCAMORE PL - road construction - W ELLIOT RD AND N SYCAMORE PL
+528333,-12453303.1868325,3941824.98601145,AZTech.Chandler-SYCAMORE PL - road construction - W ELLIOT RD AND N SYCAMORE PL
+528334,-12452800.8865432,3942010.74529114,AZTech.Chandler-Central Dr - road construction - W ELLIOT RD AND N SYCAMORE PL
+528335,-12452812.3698567,3941824.7544267,AZTech.Chandler-Central Dr - road construction - W ELLIOT RD AND N SYCAMORE PL
+528382,-12456954.4734762,3945645.32243466,Roadway reduced to one lane on E Baseline Rd Westbound from S Kenwood Ln  to  S El Dorado . 1 Lane Closed.   10/18/2025 11:20 AM  to 11/2/2025 11:23 AM  
+528399,-12456041.0567625,3945634.55494025,Right lane closed on E Baseline Rd Eastbound from S Price Rd  to  S Kenwood Ln . 1 Lane Closed.   10/18/2025 5:00 AM  to 11/2/2025 3:30 PM  
+528404,-12455918.2555393,3945809.60896946,Exit ramp restricted on S Price Rd Southbound from E Ellis Dr-Alley  to  E Baseline Rd . 1 Right lane closed.   10/18/2025 5:00 AM  to 11/2/2025 3:30 PM  
+528409,-12455832.9271553,3945504.35323591,Exit ramp restricted on N Price Rd Northbound from 101-LOOP Northbound  to  E Baseline Rd . 1 Left lane closed.   10/18/2025 5:00 AM  to 11/2/2025 3:30 PM  
+528432,-12459591.2726411,3947084.51855495,Right lane closed on S Rural Rd Southbound from E La Jolla Dr  to  E Baseline Rd . 1 Right lane closed.   10/18/2025 5:00 AM  to 11/2/2025 3:30 PM  
+528436,-12460202.1115236,3946583.80996353,Exit ramp restricted on  ramp  from US-60 Eastbound  to  S Rural Rd . 1 Right lane closed.   10/18/2025 5:00 AM  to 11/2/2025 3:30 PM  
+528442,-12458921.9373795,3946618.47290128,Exit ramp restricted on  ramp  from US-60 Westbound  to  S Rural Rd . 1 Right lane closed.   10/18/2025 5:00 AM  to 11/2/2025 3:30 PM  
+528454,-12440402.3572435,3946260.18751274,AZTech.Mesa-3600 E Southern - road construction - Various lane restrictions on Val Vista and on Southern for CIP CP0062 Val Vista Rd Improvements by Granite Construction.   Speed reduced to 35 MPH.
+528581,-12490854.0673,3985528.9785,WEST BOUND AND NORTH BOUND SHOULDER CLOSURES
+528598,-12483387.735066,3956773.84660976,Exit ramp restricted on  ramp  from I-10 Eastbound  to  N 35th Ave . 1 Left Ramp Closed.   9/27/2025 5:00 AM  to 10/12/2025 9:00 PM  
+528608,-12482754.3271634,3956591.7094485,Left lane closed on N 35th Ave Northbound from W Latham St  to  W Palm Ln . 1 Left lane closed.   9/27/2025 5:00 AM  to 10/12/2025 9:00 PM  
+528612,-12454741.715173,3933727.64744814,Right lane closed on 202-LOOP Westbound from 101-LOOP Northbound (MP 50)  to  Price Rd (MP 62) . 1 Right lane closed.   9/29/2025 5:00 AM  to 11/23/2025 10:00 PM  
+528831,-12440769.9016342,3882608.66913833,Right lane closed on SR-387 Northbound from W Viola St (MP 2)  to  W Casa Grande Lakes Blvd S (MP 2) . 1 Right lane closed.   10/16/2025 7:00 PM  to 10/18/2025 5:00 AM  
+528832,-12440750.4337804,3883853.38196583,Right lane closed on SR-387 Southbound from W Industrial Way (MP 2)  to  W Viola St (MP 2) . 1 Right lane closed.   10/16/2025 7:00 PM  to 10/18/2025 5:00 AM  
+528833,-12440769.8988316,3882609.55038678,Left lane closed on SR-387 Northbound from W Viola St (MP 2)  to  W Casa Grande Lakes Blvd S (MP 2) . 1 Left lane closed.   10/16/2025 7:00 PM  to 10/18/2025 5:00 AM  
+528837,-12440750.0362219,3883869.08876556,Left lane closed on SR-387 Southbound from W Industrial Way (MP 2)  to  W Viola St (MP 2) . 1 Left lane closed.   10/16/2025 7:00 PM  to 10/18/2025 5:00 AM  
+528875,-12442286.7347803,3953115.93103131,AZTech.Mesa-800 N Lindsay  - road construction - Northbound and Southbound alternating lane closure for Ansco to install Gigapower Fiber.
+528919,-12451691.5785508,3936972.67977701,AZTech.Chandler-Galveston ST - road construction - Flagger
+528920,-12450297.414878,3935511.90290445,AZTech.Chandler-Alley - road construction - Sb Alley Closure
+528921,-12449625.2660974,3938904.7228478,AZTech.Chandler-Knox Rd - road construction - bore
+528922,-12449192.6298754,3938900.40873758,AZTech.Chandler-Hamilton St - road construction - bore
+528923,-12449177.6718303,3938813.38256161,AZTech.Chandler-Hamilton Rd - road construction - bore
+528924,-12449185.1154194,3938901.19750893,AZTech.Chandler-Hamilton Rd - road construction - bore
+528925,-12450487.5874494,3952464.09896994,AZTech.Mesa-436 W. Rio Salado - road construction - W. Rio Salado Pkwy. football and westbound double right lane closure for City of Mesa crews to do sewer repairs.
+529028,-12449308.3861546,3933299.53509487,Left lane closed on  ramp  from 202-LOOP Westbound  to  SR-87 Northbound . 1 Left lane closed.  Width Restriction: 12ft  9/24/2025 10:19 AM  to 10/17/2025 11:00 PM  
+529029,-12450874.65139,3933487.30107438,Left lane closed on  ramp  from 202-LOOP Eastbound  to  SR-87 Northbound . 1 Left lane closed.  Width Restriction: 12ft  9/24/2025 10:21 AM  to 10/17/2025 11:00 PM  
+529034,-12606507.8746817,4086435.67916339,Construction work on State Route 97 Northbound  near   US-93 Northbound   Width Restriction: 14ft Speed Restriction: 35mph  10/13/2025 6:00 AM  to 10/31/2025 6:00 PM  
+529075,-12480257.712394,3990324.87434144,Roadway reduced to two lanes on W Happy Valley Rd Westbound from N Norterra Pkwy  to  I-17 Northbound . 1 Right lane closed.   10/13/2025 9:00 PM  to 12/19/2025 5:00 AM  
+529136,-12434945.0607731,3945169.39171674,Construction zone on N Recker Rd Both from E Melody Dr to E San Angelo Ave.  Starting 2025-09-26 12:00 AM and ending 2025-10-10 12:00 AM.
+529145,-12435127.4451896,3944800.10578099,Construction zone on E Houston Ave West from N Highland Glen Ln to N Recker Rd.  Starting 2025-09-26 12:00 AM and ending 2025-10-10 12:00 AM.
+529164,-12241027.3924906,3900111.22214027,Shoulder closed on US-70 Westbound from W Tyler Pl (MP 307)  to  N Black Rock Rd (MP 307) . All Shoulders Closed.  Width Restriction: 14ft  10/22/2025 6:30 AM  to 10/24/2025 5:00 PM  
+529165,-12241164.5253066,3900175.23955275,Shoulder closed on US-70 Westbound from W Loop Rd (MP 307)  to  W Loop Rd (MP 306) . All Shoulders Closed.  Width Restriction: 14ft  10/14/2025 6:30 AM  to 10/24/2025 5:00 PM  
+529225,-12423674.3813831,3947620.63056967,AZTech.Mesa-10837 E Southern - road construction - Alternating eastbound and westbound lane restrictions on Southern Ave for water line installation by Hunter Contracting for Medina Station development.
+529226,-12423038.4108787,3946778.27314311,AZTech.Mesa-1235 S Signal Butte - road construction - Northbound right lane closed on Signal Butte for offsite improvements by Hunter Contracting for Medina Station development.
+529227,-12432609.7356036,3958620.58022149,AZTech.Mesa-2936 N Power - road construction - Southbound lane restriction and northbound left turn restriction of Power at Preston for SCI to install Google fiber.
+529228,-12433162.8215979,3958162.11600846,AZTech.Mesa-6729 E Preston - road construction - Eastbound and westbound lane restrictions of Preston at Power for SCI to install Google fiber.
+529229,-12434110.1454021,3957370.19656235,AZTech.Mesa-6611 E McDowell - road construction - Eastbound and westbound right lane and left lane restrictions of McDowell for SCI to install Google fiber.
+529230,-12432967.7646323,3956401.71028758,AZTech.Mesa-6725 E Hermosa Vista - road construction - Westbound directional closure and eastbound flagging of Hermosa Vista and northbound left turn restriction of Power for SCI to install Google fiber.
+530492,-12451805.0334347,3939843.65479914,AZTech.Chandler-W HIGHLAND ST - road construction - UTILITY INSTALL
+530493,-12427218.5456815,3939956.71395863,AZTech.Mesa-9321 E Warner - road construction - Eastbound Warner 24-hour lane shift for Redpoint.
+530538,-12455802.9560996,3933971.1503606,AZTech.Chandler-Price Rd - road construction - Sewer Bypass
+530539,-12455389.7784902,3929865.12254634,AZTech.Chandler-Price Rd - road construction - Sewer Bypass
+530555,-12491545.6338,3986160.42239999,WEST BOUND RIGHT LANE CLOSURE
+530557,-12488590.0614662,3984346.74392112,Roadway reduced to two lanes on 101-LOOP Westbound from 59th Ave (MP 19)  to  67th Ave (MP 18)    10/10/2025 10:00 PM  to 10/11/2025 5:00 AM  ,,,,,No Data,33.66806,-112.2029,roadwork
+530577,-12447076.3503118,3953375.50814239,AZTech.Mesa-650 E Brown  - road construction - Northbound and southbound lane shifts on Horne for Gonzalez to install LSC Fiber.
+530578,-12447677.0100245,3953260.64987333,AZTech.Mesa-650 E Brown  - road construction - Eastbound right lane closure on Brown for Gonzalez Construction to install LSC Fiber.
+530579,-12446100.2661006,3952701.66175174,AZTech.Mesa-650 E Brown  - road construction - Alternating lane closures with left turn prohibitions at Staple for Gonzalez Construction to install LSC Fiber.
+530640,-12439889.5822563,3896493.89881484,Road reconstruction on SR-187 Northbound from SR387 (MP 187)  to  SR87 (MP 192) . Lane Alternating.  Width Restriction: 11ft  10/7/2025 6:00 AM  to 3/20/2026 6:00 PM  
+530666,-12433124.5483476,3903399.07236705,Road reconstruction on SR-187 Southbound from SR87 (MP 192)  to  SR387 (MP 187) . Lane Alternating.  Width Restriction: 11ft  10/7/2025 6:00 AM  to 3/20/2026 6:00 PM  
+530671,-12220338.0093435,3875719.30679406,Construction work on US-70 Eastbound from N Reay Ln (MP 335)  to  E 8th St (MP 340)    10/2/2025 7:00 AM  to 5/1/2026 5:00 PM  
+530674,-12211625.4769639,3872977.02983601,Construction work on US-70 Westbound from E 8th St (MP 340)  to  N Reay Ln (MP 335)    10/2/2025 7:00 AM  to 5/1/2026 5:00 PM  
+530707,-12455351.2551785,3981912.87191013,Left lanes closed on N Pima Rd Southbound from E Trailside Vw  to  101-LOOP Eastbound . 2 Left Lanes Closed.   10/11/2025 5:00 AM  to 10/11/2025 5:00 PM  
+530709,-12455676.5219837,3979205.6490812,Right lane closed on E Frank Lloyd Wright Blvd Westbound from N Pima Rd  to  N Hayden Rd . 1 Right lane closed.   10/11/2025 5:00 AM  to 10/11/2025 5:00 PM  
+530712,-12456415.0224468,3982048.94281546,Exit ramp closed on  ramp  from 101-LOOP Eastbound  to  N Pima Rd . All lanes closed.   10/13/2025 10:00 PM  to 10/15/2025 5:00 AM  
+530716,-12455611.980759,3977787.48697807,Parallel/frontage roadway closed on N Pima Rd Northbound from E Raintree Dr  to  E Frank Lloyd Wright Blvd . All lanes closed.   10/15/2025 10:00 PM  to 10/16/2025 6:00 AM  
+530718,-12455651.4842811,3980541.74029365,Parallel/frontage roadway closed on N Pima Rd Southbound from E Bell Rd  to  E Frank Lloyd Wright Blvd . All lanes closed.   10/16/2025 10:00 PM  to 10/17/2025 6:00 AM  
+530721,-12455662.0702368,3972913.89182518,Right lanes closed on 101-LOOP Northbound from E Shea Blvd (MP 41)  to  Princess Dr (MP 37) . 2 Right Lanes Closed.   10/27/2025 10:00 PM  to 10/31/2025 5:00 AM  
+530722,-12455878.8344601,3981445.84338288,Right lanes closed on 101-LOOP Southbound from N Pima Rd (MP 37)  to  Shea Blvd (MP 41) . 2 Right Lanes Closed.   11/3/2025 10:00 PM  to 11/7/2025 5:00 AM  
+530790,-12436475.3630021,3957378.49538174,AZTech.Mesa-4958 E Mcdowell - road construction - Westbound right lane closure on McDowell for Hylan West to replace cell site pole. For Boldyn networks.
+530791,-12430493.9012796,3933221.08428159,AZTech.Mesa-8017 E Pecos - road construction - Eastbound and westbound lane shifts on Pecos for Nesbit to install new ADA ramps for the City of Mesa.
+530821,-12432607.1229509,3958644.50279622,Turning lane closed on N Power Rd Southbound from E Eagle Crest Dr  to  202-LOOP Westbound . 1 Right lane closed.   9/29/2025 6:00 AM  to 10/11/2025 5:00 PM  
+530828,-12432587.0854425,3958487.29391647,On ramp restricted on  ramp  from N Power Rd  to  202-LOOP Northbound . 1 Right lane closed.   9/29/2025 6:00 AM  to 10/11/2025 5:00 PM  
+530833,-12432252.3043267,3947618.47100518,AZTech.Mesa-7205 E Southern - road construction - Alternating lane restrictions on Southern for Northstar Communications to install Google Fiber.
+530856,-12432589.2859057,3958348.72210056,Turning lane closed on N Power Rd Northbound from E Preston St  to  202-LOOP Northbound . 1 Lane Closed.   9/29/2025 6:00 AM  to 10/11/2025 5:00 PM  
+530969,-12319512.1975989,3774865.96910744,USE CAUTION: FLOODING OLD SPANISH TR WEST OF S X9 RANCH RD   WESTBOUND - Old Spanish Tr west of S X9 Ranch Rd  Westbound.  Status: Proceed with Caution due to FloodingFor more information please contact Pima County Community Relations at (520) 724-6410
