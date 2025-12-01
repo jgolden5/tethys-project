@@ -45,3 +45,4 @@ VII - get the scaffolding up for my own layout (az_irrigation -> map_layout_tuto
 VIII - add a layer called irrigation to map_layout_tutorial, and make it point to the .geojson data points
   1 - add clickable irrigation layer which can be accessed from the layers menu (currently shows nothing)
   2 - copy nexus layer logic to irrigation layer to let the data points display in a similar fashion (hopefully)
+  3 - grab a .csv for the az 1960s irrigation data, add it to .../app_workspace/outputs/, and implement it in the get_plot_for_layer_feature function (inside controllers.py)
