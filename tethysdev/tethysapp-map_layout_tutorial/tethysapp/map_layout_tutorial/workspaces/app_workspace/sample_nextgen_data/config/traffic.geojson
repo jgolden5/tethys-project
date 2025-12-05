@@ -3,7 +3,7 @@
 "name": "ADOT_Traffic_Events",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "geometry": { "type": "Point", "coordinates": [-12456432.8525474, 3941747.89609966] }, "properties": { "ID": 524260, "SourceId": "328385", "Organization": "ERS", "RoadwayName": "E Elliot Rd", "DirectionOfTravel": "East", "Description": "Roadway reduced to one lane on E Elliot Rd Eastbound from S Country Club Way  to  N Price Rd    10/6/2025 9:00 PM  to 10/10/2025 5:00 AM  " } },
+{ "type": "Feature", "geometry": { "type": "Point", "coordinates": [-12456432.8525474, 3941747.89609966] }, "properties": { "ID": 524260, "Description": "Roadway reduced to one lane on E Elliot Rd Eastbound from S Country Club Way  to  N Price Rd    10/6/2025 9:00 PM  to 10/10/2025 5:00 AM  " } },
 { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-12456432.8525474,3941747.89609966] }, "properties": { "ID": 524264, "Description": "Roadway reduced to one lane on E Elliot Rd Eastbound from S Country Club Way  to  N Price Rd    10/25/2025 5:00 AM  to 10/26/2025 7:00 PM  " } },
 { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-12455889.7715639,3941741.04573325] }, "properties": { "ID": 524266, "Description": "Exit ramp restricted on N Price Rd Northbound from 101-LOOP Northbound  to  101-LOOP Northbound    10/6/2025 9:00 PM  to 10/10/2025 5:00 AM  " } },
 { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-12455566.2532783,3941770.66753154] }, "properties": { "ID": 524270, "Description": "Roadway reduced to one lane on W Elliot Rd Westbound from N Coronado St  to  S River Pkwy    10/25/2025 5:00 AM  to 10/26/2025 7:00 PM  " } },

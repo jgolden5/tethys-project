@@ -53,4 +53,4 @@ IX - get data from ADOT instead and make it JUST that data on my map. This will 
   3 - side quest = pull the tethys-project onto my user in digitalOcean server (using git) [success!]
   4 - renamed and reprojected traffic files
   5 - replace every occurrance of "irrigation" in controllers.py with "traffic" (switch the data out)
-  6 - take a lookie into the logic needed to extract data points from ADOT csv & geojson files
+  6 - take a lookie into the logic needed to extract data points from ADOT csv & geojson files (check get_plot_for_layer_feature func in controllers.py for logic comparison)
