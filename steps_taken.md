@@ -9,7 +9,7 @@
 
 ---
 
-# A) Tutorial Project
+# A) [Tutorial](https://docs.tethysplatform.org/en/latest/tutorials/map_layout.html) Project
 
 ## I. Create and Activate Tethys Environment
 1. Installed miniconda with brew:  
@@ -151,4 +151,4 @@ Data hub: https://azgeo-open-data-agic.hub.arcgis.com/
 
 ## X. Set Up Tethys GitHub Project with README
 1. Create README and move steps_taken into it.
-
+2. Update README with basic working version of project (also got the logic for traffic layer closer, but not working yet)

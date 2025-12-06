@@ -148,13 +148,13 @@ class MapLayoutTutorialMap(MapLayout):
       df = pd.read_csv(output_path)
       time_col = df.iloc[:, 1]
       streamflow_cms_col = df.iloc[:, 2]
-      sreamflow_cfs_col = streamflow_cms_col * 35.314  # Convert to cfs
+      streamflow_cfs_col = streamflow_cms_col * 35.314  # Convert to cfs
       data = [
         {
           'name': 'Streamflow',
           'mode': 'lines',
           'x': time_col.tolist(),
-          'y': sreamflow_cfs_col.tolist(),
+          'y': streamflow_cfs_col.tolist(),
           'line': {
             'width': 2,
             'color': 'blue'
@@ -198,7 +198,7 @@ class MapLayoutTutorialMap(MapLayout):
     elif layer_name == 'traffic':
       layout = {
         'yaxis': {
-          'title': 'Streamflow (cfs)'
+          'title': 'Traffic statistics (x/y coordinates)'
         }
       }
 
@@ -209,20 +209,20 @@ class MapLayoutTutorialMap(MapLayout):
 
       # Parse with Pandas
       df = pd.read_csv(output_path)
-      time_col = df.iloc[:, 1]
-      streamflow_cms_col = df.iloc[:, 2]
-      sreamflow_cfs_col = streamflow_cms_col * 35.314  # Convert to cfs
+      x_axis = df.iloc[:, 0]
+      y_axis = df.iloc[:, 1]
+      streamflow_cfs_col = streamflow_cms_col * 35.314  # Convert to cfs
       data = [
         {
-          'name': 'Streamflow',
+          'name': 'Traffic',
           'mode': 'lines',
-          'x': time_col.tolist(),
-          'y': sreamflow_cfs_col.tolist(),
+          'x': x_axis.tolist(),
+          'y': y_axis.tolist(),
           'line': {
             'width': 2,
-            'color': 'blue'
+            'color': 'yellow'
           }
         },
       ]
 
-      return f'Streamflow at Nexus "{id}"', data, layout
+      return f'Traffic data at Traffic "{id}"', data, layout
